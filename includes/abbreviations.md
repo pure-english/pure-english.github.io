@@ -18,7 +18,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[hy]: they
 *[Her]: Their, Her
 *[Hy]: They
-*[mid]: (together) with
+*[mid]: with
 *[ovet]: fruit
 *[seadeer]: sea creatures
 *[sunder]: separate, split
@@ -28,6 +28,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[twoth]: second
 *[wassombere]: fruitful, fertile, fruit-bearing
 *[werely]: male, masculine
+*[wife]: woman
 *[wifely]: female, feminine
 *[willest]: will
 *[wissly]: certainly, surely
@@ -36,6 +37,9 @@ Keep it in alphabetical order so that there are no duplicates.
 *[worts]: herbs, plants
 *[wortwale]: plant (verb)
 *[wortwaled]: planted
+*[yave]: gave
+*[yeave]: give
+*[yeaven]: given
 
 <!-- Uncertain below -->
 *[fithered]: winged
