@@ -1,5 +1,15 @@
 site_name: Pure English Home
 
+nav:
+  - Home:
+    - index.md
+  - Writs (Texts):
+    - writs/index.md
+  - Dictionary: https://pure-english.github.io/dictionary/
+  - Name Generator: https://pure-english.github.io/name-generator/
+  - Blog:
+    - blog/index.md
+
 theme:
   name: material
   language: en

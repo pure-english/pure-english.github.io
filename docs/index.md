@@ -1,28 +1,32 @@
-# Welcome to MkDocs
+---
+title: Home
+---
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+# Pure English
+Welcome to the Pure English website.
 
-## Commands
+## What is Pure English?
+Pure English, also known as **Anglish**, is an attempt at [linguistic purism]
+in English.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+[linguistic purism]: https://en.wikipedia.org/wiki/Linguistic_purism_in_English
 
-## Project layout
+## Where can I find out more about it?
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* Find most information at the [wiki]
+* Join the [Discord] for more questions
+* Use the [Online Dictionary] to interactively search up words and alternatives
+* View the [Wordbook] for vocabulary
 
-Code block test:
+[wiki]: https://anglisc.miraheze.org/wiki/Main_Page
+[Discord]: https://discord.gg/qvPQqms
+[Online Dictionary]: https://pure-english.github.io/dictionary/
 
-```c
-#include <stdio.h>
+## Everyone calls it Anglish, why do you call it Pure English?
+Because the GitHub username *anglish* was taken already. I call it Anglish
+normally.
 
-int main(void)
-{
-    printf("Hello World!\n");
-}
-```
+
+[Wordbook]: https://docs.google.com/spreadsheets/d/1y8_11RDvuCRyUK_MXj5K7ZjccgCUDapsPDI5PjaEkMw/edit
+
+<!-- BUFFER -->
