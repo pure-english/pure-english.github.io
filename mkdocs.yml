@@ -19,7 +19,7 @@ theme:
     name: material
     language: en
     icon:
-    logo: fontawesome/solid/book-open
+        logo: fontawesome/solid/book-open
     palette:
         # 'default' for light mode, 'slate' for dark mode
         # scheme: default
@@ -110,6 +110,7 @@ markdown_extensions:
     - pymdownx.snippets:
         auto_append:
             - includes/abbreviations.md
+            - includes/footnotes.md
 
 # extra:
 #   alternate:

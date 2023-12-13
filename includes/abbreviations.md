@@ -6,10 +6,11 @@ Keep it in alphabetical order so that there are no duplicates.
 
 *[deer]: animal(s), beast(s)
 *[feelfold]: increase in number, multiply
-*[fithered]: winged <!-- Uncertain -->
+<!-- Uncertain below -->
+*[fithered]: winged
 *[ghost]: spirit
 *[Ghost]: Spirit
-*[going by]: according to
+<!-- *[going by]: according to | Use 'abiding by'-->
 *[hem]: them
 *[her]: their, her
 *[hers]: theirs, hers
@@ -20,6 +21,8 @@ Keep it in alphabetical order so that there are no duplicates.
 *[ovet]: fruit
 *[seadeer]: sea creatures
 <!-- *[shapeless]: formless -->
+*[sunder]: separate, split
+*[sundered]: separated, split
 *[thwarst]: across
 *[tider]: have/beget offspring, multiply
 *[wassombere]: fruitful, fertile, fruit-bearing
@@ -27,3 +30,4 @@ Keep it in alphabetical order so that there are no duplicates.
 *[wifely]: female, feminine
 *[wholf]: arch, vault, the sky
 *[wort]: herb, plant
+*[worts]: herbs, plants
