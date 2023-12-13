@@ -99,7 +99,7 @@ plugins:
     - rss:
         match_path: blog/posts/.*
         date_from_meta:
-        as_creation: date
+            as_creation: "date"
         categories:
             - categories
             - tags
@@ -109,6 +109,24 @@ markdown_extensions:
     - abbr
     - attr_list
     - footnotes
+    - admonition
+    - attr_list
+    - def_list
+    - md_in_html
+    - tables
+    - pymdownx.superfences
+    - pymdownx.betterem     # Better detection of emphasis in Markdown
+    - pymdownx.caret
+    - pymdownx.mark
+    - pymdownx.tilde
+    - pymdownx.details
+    - pymdownx.smartsymbols
+    - pymdownx.tabbed:
+        alternate_style: true
+    # - pymdownx.keys
+    # - pymdownx.highlight:
+    #   anchor_linenums: true
+    #   auto_title: true
     - pymdownx.snippets:
         auto_append:
             - includes/abbreviations.md
