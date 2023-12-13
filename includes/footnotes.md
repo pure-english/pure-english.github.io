@@ -1,5 +1,9 @@
 <!-- Add Footnotes for interesting tidbits -->
 
+<!-- These will not be automatically inserted, as they will appear on all
+pages regardless of whether one uses the foot note, so instead this will have
+to be manually copied from. -->
+
 [^mid]: In OE, the preposition for *with* was not *wiþ* but *mid*, which
     generally meant the same thing as modern with except for the use of *with*
     to mean *against*, as shown in *the knight fought with the dragon*.

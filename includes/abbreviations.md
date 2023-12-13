@@ -5,6 +5,7 @@ Keep it in alphabetical order so that there are no duplicates.
 -->
 
 *[deer]: animal(s), beast(s)
+*[Ewe]: Eve
 *[feelfold]: increase in number, multiply
 <!-- Uncertain below -->
 *[fithered]: winged

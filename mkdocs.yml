@@ -10,6 +10,7 @@ nav:
       - Genesis:
         - writs/bible/genesis/index.md
         - 1 - The beginning: writs/bible/genesis/1.md
+        - 2 - Adam and Ewe: writs/bible/genesis/2.md
   - Dictionary: https://pure-english.github.io/dictionary/
   - Name Generator: https://pure-english.github.io/name-generator/
   - Blog:
@@ -84,6 +85,7 @@ theme:
         - search.suggest  # Suggest searches
         - search.highlight  # Highlights all results in the search
         - search.share  # Allows deep links to the search
+        - navigation.footer
 
         # Reference
         - content.tooltips
@@ -110,7 +112,7 @@ markdown_extensions:
     - pymdownx.snippets:
         auto_append:
             - includes/abbreviations.md
-            - includes/footnotes.md
+            # - includes/footnotes.md
 
 # extra:
 #   alternate:
