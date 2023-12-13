@@ -5,33 +5,38 @@ nav:
     - index.md
   - Writs (Texts):
     - writs/index.md
+    - The Bible:
+      - writs/bible/index.md
+      - Genesis:
+        - writs/bible/genesis/index.md
+        - 1 - The beginning: writs/bible/genesis/1.md
   - Dictionary: https://pure-english.github.io/dictionary/
   - Name Generator: https://pure-english.github.io/name-generator/
   - Blog:
     - blog/index.md
 
 theme:
-  name: material
-  language: en
-  icon:
+    name: material
+    language: en
+    icon:
     logo: fontawesome/solid/book-open
-  palette:
-    # 'default' for light mode, 'slate' for dark mode
-    # scheme: default
+    palette:
+        # 'default' for light mode, 'slate' for dark mode
+        # scheme: default
 
-    # Palette toggle for light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
+        # Palette toggle for light mode
+        - media: "(prefers-color-scheme: light)"
+          scheme: default
+          toggle:
+            icon: material/brightness-7
+            name: Switch to dark mode
 
-    # Palette toggle for dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
+        # Palette toggle for dark mode
+        - media: "(prefers-color-scheme: dark)"
+          scheme: slate
+          toggle:
+            icon: material/brightness-4
+            name: Switch to light mode
 
     # # Palette toggle for dark mode
     # - scheme: slate
@@ -57,38 +62,66 @@ theme:
     # accent: deep orange
 
 
-  features:
-    - content.copy.code # Code blocks all have copy-to-clipboard buttons
-    - content.action.edit # Edit button
-    - content.action.view # View source button
-    - navigation.instant  # Clicks on all internal links will be intercepted
-                          # and dispatched without fully reloading the page
-    - navigation.instant.progress # Progress indicator
-    # - navigation.tracking # Changes the URL state at the top to the current
-                            # heading
-    - navigation.tabs # Tabs up the top
-    - navigation.tabs.sticky  # Sticky tabs
-    # - navigation.sections # Expands all top-level page sections
-    # - navigation.expand # If the above is not active, this will expand all
-                          # sections
-    - navigation.prune  # Not compatible with `expand`, reduces build size
-    - navigation.indexes  # Attaches documents directly to sections
-    - toc.follow  # Scrolls the sidebar to follow when jumping sections
-    # - toc.integrate # Moves the sidebar to the left into the sections
-    - navigation.top  # "Back to top" button
-    - search.suggest  # Suggest searches
-    - search.highlight  # Highlights all results in the search
-    - search.share  # Allows deep links to the search
+    features:
+        - content.copy.code # Code blocks all have copy-to-clipboard buttons
+        - content.action.edit # Edit button
+        - content.action.view # View source button
+        - navigation.instant  # Clicks on all internal links will be intercepted
+                            # and dispatched without fully reloading the page
+        - navigation.instant.progress # Progress indicator
+        # - navigation.tracking # Changes the URL state at the top to the current
+                                # heading
+        - navigation.tabs # Tabs up the top
+        - navigation.tabs.sticky  # Sticky tabs
+        # - navigation.sections # Expands all top-level page sections
+        # - navigation.expand # If the above is not active, this will expand all
+                            # sections
+        - navigation.prune  # Not compatible with `expand`, reduces build size
+        - navigation.indexes  # Attaches documents directly to sections
+        - toc.follow  # Scrolls the sidebar to follow when jumping sections
+        # - toc.integrate # Moves the sidebar to the left into the sections
+        - navigation.top  # "Back to top" button
+        - search.suggest  # Suggest searches
+        - search.highlight  # Highlights all results in the search
+        - search.share  # Allows deep links to the search
 
+        # Reference
+        - content.tooltips
 
 plugins:
-  - search
-  - blog
-  - rss:
-      match_path: blog/posts/.*
-      date_from_meta:
+    - search
+    - blog
+    - tags:
+    # - enabled: true
+    # tags_file: tags.md
+    - rss:
+        match_path: blog/posts/.*
+        date_from_meta:
         as_creation: date
-      categories:
-        - categories
-        - tags
-      comments_path: "#__comments"
+        categories:
+            - categories
+            - tags
+        comments_path: "#__comments"
+
+markdown_extensions:
+    - abbr
+    - attr_list
+    - footnotes
+    - pymdownx.snippets:
+        auto_append:
+            - includes/abbreviations.md
+
+# extra:
+#   alternate:
+#     - name: English spelling
+#       link: /en/
+#       lang: en
+#     - name: Anglish spelling
+#       link: /ang/
+#       lang: en
+
+repo_name: pure-english/pure-english.github.io
+repo_url: https://github.com/pure-english/pure-english.github.io
+
+watch:
+    - includes
