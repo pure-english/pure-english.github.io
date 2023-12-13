@@ -1,4 +1,2 @@
 # Blog
-Welcome to the blog!
-
-Small change :P
+Welcome to the Pure English blog.
