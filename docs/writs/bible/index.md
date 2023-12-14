@@ -78,6 +78,7 @@ the [CC BY-NC-SA 4.0] licence.
 
 * *call* is from Old Norse, use *name*
 * *sky* is from Old Norse, use *lift*
+* *take* is from Old Norse, use *nim*
 
 #### Dutch
 
