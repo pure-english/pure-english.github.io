@@ -44,6 +44,15 @@ the [CC BY-NC-SA 4.0] licence.
     * *Hanged* is still used in the sense of *killing someone by hanging*
 * *with* in the sense of "together with" uses *mid* instead. *with* in the
   sense of "against" is used.
+* Choose words based on the following order:
+    1. An already existing Germanic word/phrase that is readily apparent
+    2. An English word with an expanded meaning
+    3. A new readily apparent compound word
+    4. A revived obsolete New English word
+    5. A revived Middle English word
+    6. A revived Old English word
+    7. Old English words from other sources, such as Latin
+    8. Anything else
 
 *[hing]: hung
 *[hangen]: hung
@@ -54,6 +63,12 @@ the [CC BY-NC-SA 4.0] licence.
   Likewise, use *ye/you/your/yours/yourselves* for second person plural
   **ALWAYS**. The T-V distinction of using the plural for politeness arose from
   French influence.
+* God will use the singular 3rd person plural *hy* (equivalent to *they*)
+  pronouns, due to Hebrew not differentiating gender, and [some][gog]
+  proponents saying that God is above gender or has a "divine" gender.
+* Jesus will use male pronouns.
+
+[gog]: https://en.wikipedia.org/wiki/Gender_of_God
 
 ### Verbs
 
@@ -79,6 +94,9 @@ the [CC BY-NC-SA 4.0] licence.
 * *call* is from Old Norse, use *name*
 * *sky* is from Old Norse, use *lift*
 * *take* is from Old Norse, use *nim*
+* *get* and anything that uses *-get* has a hard *g* thanks to Old Norse, use
+  *y* instead: *yet*, *foryet* (forget), etc.
+* *birth* is Norse, use *bear* in the sense of *give birth to*
 
 #### Dutch
 

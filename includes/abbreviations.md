@@ -12,8 +12,12 @@ Keep it in alphabetical order so that there are no duplicates.
 *[feelfold]: increase in number, multiply
 *[ghost]: spirit
 *[Ghost]: Spirit
+*[hame]: covering
+*[hames]: covering
 *[headwaters]: (NE) the sources of a river
 *[hem]: them
+*[hemself]: themself (singular)
+*[hemselves]: themselves
 *[her]: their, her
 *[hers]: theirs, hers
 *[hy]: they
@@ -21,6 +25,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[Hy]: They
 *[leighton]: garden (especially a kitchen garden or herb garden)
 *[mid]: with
+*[nim]: take
 *[nimmed]: took; taken, seized
 *[ovet]: fruit
 *[seadeer]: sea creatures

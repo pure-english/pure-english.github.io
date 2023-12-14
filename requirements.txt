@@ -1,3 +1,4 @@
 mkdocs-material
 mkdocs-rss-plugin
 pymdown-extensions
+mkdocs-macros-plugin
