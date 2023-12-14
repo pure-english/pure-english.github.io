@@ -73,7 +73,8 @@ Keep it in alphabetical order so that there are no duplicates.
 *[wife]: woman; wife (with possessive)
 *[wives]: women; wives (with possessive)
 *[wifely]: female, feminine
-*[willest]: will
+<!-- *[willest]: will | Archaic -->
+*[wilt]: will
 *[wissly]: certainly, surely
 *[with child]: pregnant
 *[wholf]: arch, vault, the sky
