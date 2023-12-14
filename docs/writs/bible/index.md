@@ -91,12 +91,26 @@ the [CC BY-NC-SA 4.0] licence.
 
 #### Old Norse
 
+* *want* is Old Norse, use:
+    * GT Verb: want, wish, crave, long (for), yearn (for), need, pine, hanker,
+      seek
+    * GT Noun: want, craving, hankering, wish, need, itch
+    * Ang: list (desire)
+    * Me: long for
+* *until* is Old Norse, use *oth*
 * *call* is from Old Norse, use *name*
 * *sky* is from Old Norse, use *lift*
 * *take* is from Old Norse, use *nim*
 * *get* and anything that uses *-get* has a hard *g* thanks to Old Norse, use
   *y* instead: *yet*, *foryet* (forget), etc.
 * *birth* is Norse, use *bear* in the sense of *give birth to*
+* *crawl* is Old Norse, use *smow* (rhymes with now)
+* *skin* is from Old Norse, use *hide*
+* *flash* is probably from Old Norse in some senses, use *lix*
+* *flaunt* and *flash* (as in flaunt, not light) is probably from Old Norse,
+  use:
+    * GT: show off, tout, lay out, show, wave
+    * Eng: tout
 
 #### Dutch
 

@@ -5,6 +5,7 @@ Keep it in alphabetical order so that there are no duplicates.
 -->
 
 *[art]: are
+*[chied]: called, cried (out)
 *[deer]: animal(s), beast(s)
 *[eatest]: eat
 *[Ewe]: Eve
@@ -45,7 +46,9 @@ Keep it in alphabetical order so that there are no duplicates.
 *[Thy]: Your
 *[Thyself]: Yourself
 *[wassombere]: fruitful, fertile, fruit-bearing
+*[wast]: were (indicative)
 *[werely]: male, masculine
+*[wert]: were (subjunctive)
 *[wife]: woman; wife (with possessive)
 *[wifely]: female, feminine
 *[willest]: will
