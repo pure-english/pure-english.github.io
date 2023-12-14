@@ -74,6 +74,7 @@ the [CC BY-NC-SA 4.0] licence.
 
 * Use *-eth* over *-s* for the third person singular present conjugation.
   According to [this][n-vb], the *-s* can be linked to Norse influence.
+    * Use *hath* instead of *has*.
 * Use *be* instead of *are*. According to [this][n-be], Norse influence made
   *are* become prominent over the East Midlands *ben*, which would today be
   *be*.

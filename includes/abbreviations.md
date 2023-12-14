@@ -4,9 +4,11 @@ Only add to this file abbreviations that only have one meaning.
 Keep it in alphabetical order so that there are no duplicates.
 -->
 
+*[anqueathed]: replied, responded
 *[art]: are
+*[atithed]: granted, allowed
 *[ayen]: again
-*[bear]: give birth to
+*[bear]: give birth to; endure
 *[bore]: gave birth to
 *[borough]: city
 *[chyed]: called, cried (out)
@@ -17,6 +19,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[feathered]: winged, fleet
 *[feelfold]: increase in number, multiply
 *[findeth]: finds
+*[folk]: people, a people
 *[ghost]: spirit
 *[Ghost]: Spirit
 *[gleen]: musical
@@ -29,6 +32,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[hemselves]: themselves
 *[her]: their, her
 *[hers]: theirs, hers
+*[housel]: offering to a god; the Eucharist
 *[hy]: they
 *[Her]: Their, Her
 *[Hy]: They
