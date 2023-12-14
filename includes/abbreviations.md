@@ -37,6 +37,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[Her]: Their, Her
 *[Hy]: They
 *[leighton]: garden (especially a kitchen garden or herb garden)
+*[Leighton]: Garden (especially a kitchen garden or herb garden)
 *[mid]: with
 *[Mid]: With
 *[nim]: take
