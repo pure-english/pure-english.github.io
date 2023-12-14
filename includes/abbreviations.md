@@ -5,16 +5,24 @@ Keep it in alphabetical order so that there are no duplicates.
 -->
 
 *[art]: are
-*[chied]: called, cried (out)
+*[ayen]: again
+*[bear]: give birth to
+*[bore]: gave birth to
+*[borough]: city
+*[chyed]: called, cried (out)
+*[chyeth]: calls, cries (out)
 *[deer]: animal(s), beast(s)
 *[eatest]: eat
 *[Ewe]: Eve
 *[feathered]: winged, fleet
 *[feelfold]: increase in number, multiply
+*[findeth]: finds
 *[ghost]: spirit
 *[Ghost]: Spirit
+*[gleen]: musical
 *[hame]: covering
 *[hames]: coverings
+*[hast]: have
 *[headwaters]: (NE) the sources of a river
 *[hem]: them
 *[hemself]: themself (singular)
@@ -26,13 +34,20 @@ Keep it in alphabetical order so that there are no duplicates.
 *[Hy]: They
 *[leighton]: garden (especially a kitchen garden or herb garden)
 *[mid]: with
+*[Mid]: With
 *[nim]: take
 *[nimmed]: took; taken, seized
 *[ovet]: fruit
-*[seadeer]: sea creatures
+*[ovets]: fruits
+*[rear]: raise, raise a child; breed animals
+*[seadeer]: sea creature(s)
+*[slayeth]: slays
+*[smowing]: creeping, crawling
 *[sunder]: separate, split
 *[sundered]: separated, split
 *[sweetwatered]: fragrant, having a pleasant smell
+*[teld]: tent
+*[telds]: tents
 *[thee]: you
 *[thine]: your, yours
 *[thou]: you
@@ -47,13 +62,17 @@ Keep it in alphabetical order so that there are no duplicates.
 *[Thyself]: Yourself
 *[wassombere]: fruitful, fertile, fruit-bearing
 *[wast]: were (indicative)
+*[were]: man, husband; were (verb)
 *[werely]: male, masculine
 *[wert]: were (subjunctive)
 *[wife]: woman; wife (with possessive)
+*[wives]: women; wives (with possessive)
 *[wifely]: female, feminine
 *[willest]: will
 *[wissly]: certainly, surely
+*[with child]: pregnant
 *[wholf]: arch, vault, the sky
+*[workest]: work
 *[wort]: herb, plant
 *[worts]: herbs, plants
 *[wortwale]: plant (verb)

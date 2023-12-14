@@ -97,9 +97,18 @@ the [CC BY-NC-SA 4.0] licence.
     * GT Noun: want, craving, hankering, wish, need, itch
     * Ang: list (desire)
     * Me: long for
+* *give* and *gave* are Old Norse, use:
+    * *yeave/yave/yeaven* for the Old English equivalents
+    * *bear/bore/borne* for *give birth*
 * *until* is Old Norse, use *oth*
-* *call* is from Old Norse, use *name*
+* *call* is from Old Norse, use:
+    * (in the sense of naming) *name*
+    * *call on:* (in the sense of proclaiming) *bode*
 * *sky* is from Old Norse, use *lift*
+    * *lift* the noun is NOT from Old Norse, despite the other senses being
+      from Old Norse. It is actually from Old English *lyft*, and stills means
+      both "air" and "the sky; the heavens; firmament; atmosphere" in some
+      British dialects, particularly Scottish ones.
 * *take* is from Old Norse, use *nim*
 * *get* and anything that uses *-get* has a hard *g* thanks to Old Norse, use
   *y* instead: *yet*, *foryet* (forget), etc.
