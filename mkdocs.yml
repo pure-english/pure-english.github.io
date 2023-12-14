@@ -91,6 +91,8 @@ theme:
         # Reference
         - content.tooltips
 
+        - header.autohide
+
 plugins:
     - search
     # - macros

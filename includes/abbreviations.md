@@ -14,7 +14,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[ghost]: spirit
 *[Ghost]: Spirit
 *[hame]: covering
-*[hames]: covering
+*[hames]: coverings
 *[headwaters]: (NE) the sources of a river
 *[hem]: them
 *[hemself]: themself (singular)
