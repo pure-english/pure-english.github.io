@@ -148,6 +148,7 @@ markdown_extensions:
 
 repo_name: pure-english/pure-english.github.io
 repo_url: https://github.com/pure-english/pure-english.github.io
+edit_uri: edit/main/docs/
 
 watch:
     - includes
