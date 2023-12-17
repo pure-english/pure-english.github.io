@@ -4,17 +4,20 @@ Only add to this file abbreviations that only have one meaning.
 Keep it in alphabetical order so that there are no duplicates.
 -->
 
+*[Abufe]: above
 *[anqueathed]: replied, responded
 *[art]: are
 *[atithed]: granted, allowed
 *[ayen]: again
 *[bear]: give birth to; endure
 *[beed]: table
+*[betƿeen]: between
 *[bore]: gave birth to
 *[borough]: city
 *[brune]: brown
 *[chyed]: called, cried (out)
 *[chyeth]: calls, cries (out)
+*[cloþ]: cloth
 *[deer]: animal(s), beast(s)
 *[eatest]: eat
 *[Ewe]: Eve
@@ -24,6 +27,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[folk]: people, a people
 *[ghost]: spirit
 *[Ghost]: Spirit
+*[gilt]: (NE) golden
 *[gleen]: musical
 *[hame]: covering
 *[hames]: coverings
@@ -41,6 +45,8 @@ Keep it in alphabetical order so that there are no duplicates.
 *[Her]: Their, Her
 *[Hy]: They
 *[harƿeed]: armour
+*[hƿic]: which
+*[hƿile]: while
 *[inbowed]: arched, curved
 *[inboƿed]: arched, curved
 *[leighton]: garden (especially a kitchen garden or herb garden)
@@ -78,7 +84,9 @@ Keep it in alphabetical order so that there are no duplicates.
 *[þat]: that
 *[Þe]: The
 *[þe]: the
+*[þere]: there
 *[þis]: this
+*[þought]: thought
 *[ute]: out
 *[wassombere]: fruitful, fertile, fruit-bearing
 *[wast]: were (indicative)
@@ -99,7 +107,10 @@ Keep it in alphabetical order so that there are no duplicates.
 *[wortwale]: plant (verb)
 *[wortwaled]: planted
 *[ƿaking]: waking
+*[ƿalls]: walls
 *[ƿas]: was
+*[ƿell-knoƿn]: well-known
+*[ƿuman]: woman
 *[yave]: gave
 *[ye]: you (all)
 *[yeave]: give

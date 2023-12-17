@@ -23,14 +23,14 @@ inboƿed belly sced into stiff boƿ-like deals. From þis heigt þe bedspread, n
 on ready to slide off altogeþer, could hardly abide still. His manifold scanks,
 armly þin next to þe rest of his felly, flickered helplessly before his eyes.
 
-“What's happened to me,” he thought. It was no dream. His room, a fitting room
-for a man, only somewhat too small, lay hushedly between the four well-known
-walls. Above the beed, on which an unpacked hoard of foresmack[^foresmack]
-cloth goods was spread out (Samsa was a ƿayfaring salesman) hung the meting
-which he had cut out of an meted magazine a little while ago and set in a
-pretty gilt frame. It was a meting of a woman with a fur hat and a fur scifel.
-She sat aheafed there, lifting up in the steer of the hoƿer[^hoƿer] a stark fur
-muff into which her whole forearm sƿund.
+“Hƿat's happened to me,” he þought. It ƿas no dream. His room, a fitting room
+for a man, only sumhƿat too small, lay hushedly betƿeen þe four ƿell-knoƿn
+ƿalls. Abufe þe beed, on hƿic an unpacked hoard of foresmack[^foresmack] cloþ
+goods ƿas spread ute (Samsa ƿas a ƿayfaring salesman) hung þe meting hƿic he
+had cut ute of a meted monþly book a little hƿile ago and set in a pretty gilt
+rim. It ƿas a meting of a ƿuman mid a ƿildƿaren[^ƿildƿaren] hat and a
+ƿildƿaren[^ƿildƿaren] scifel. She sat aheafed þere, heafing up in þe steer of
+þe hoƿer[^hoƿer] a stark fur glof into hƿic her hole forearm sƿund.
 
 <!-- Abbreviations -->
 *[abide]: stay
@@ -44,11 +44,17 @@ muff into which her whole forearm sƿund.
 *[fifelisc]: monstrous
 *[foresmack]: sample
 *[fund]: found
+*[glof]: muff, glove
+*[glofs]: muffs, gloves
 *[harroƿing]: harrowing
+*[heafing]: lifting
+*[hole]: whole
+*[Hƿat's]: What's
 *[man]: human being
 *[manifold]: numerous
 *[meted]: painted, drawn, illustrated
 *[meting]: picture, painting, image
+*[monþly book]: a monthly periodical or magazine
 *[nige on]: just about
 *[saƿ]: saw
 *[Scapescifting]: Metamorphosis
@@ -56,15 +62,19 @@ muff into which her whole forearm sƿund.
 *[sced]: divided
 *[stark]: rigid, solid
 *[steer]: direction
+*[sumhƿat]: somewhat
 *[sƿund]: vanished, disappeared
 *[ƿent]: changed, transformed
 *[þin]: thin
 *[ƿigsum]: verminous
+*[ƿildƿaren]: fur
 *[ƿayfaring]: travelling
 
 <!-- Footnotes -->
 [^ƿigsum]: literally *characterized by insects/bugs*.
-[^foresmack]: literally *fore-* 'before' + *smack* 'taste'
-[^hoƿer]: literally *how* 'to view, observe' + *-er* (agent suffix)
+[^foresmack]: literally *fore-* 'before' + *smack* 'taste'.
+[^hoƿer]: literally *hoƿ* 'to view, observe' + *-er* (agent suffix).
+[^ƿildƿaren]: literally *ƿildƿare* 'furs (product)' + *-en* (adjectival suffix
+    meaning "to be made up of").
 
 <!-- BUFFER -->
