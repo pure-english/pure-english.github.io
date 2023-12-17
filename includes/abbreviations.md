@@ -9,6 +9,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[atithed]: granted, allowed
 *[ayen]: again
 *[bear]: give birth to; endure
+*[beed]: table
 *[bore]: gave birth to
 *[borough]: city
 *[brune]: brown
@@ -28,19 +29,23 @@ Keep it in alphabetical order so that there are no duplicates.
 *[hames]: coverings
 *[hast]: have
 *[headwaters]: (NE) the sources of a river
+*[heigt]: height
 *[hem]: them
 *[hemself]: themself (singular)
 *[hemselves]: themselves
 *[her]: their, her
 *[hers]: theirs, hers
 *[housel]: offering to a god; the Eucharist
+*[hoƿer]: viewer, observer
 *[hy]: they
 *[Her]: Their, Her
 *[Hy]: They
 *[harƿeed]: armour
 *[inbowed]: arched, curved
+*[inboƿed]: arched, curved
 *[leighton]: garden (especially a kitchen garden or herb garden)
 *[Leighton]: Garden (especially a kitchen garden or herb garden)
+*[littel]: little
 *[mid]: with
 *[Mid]: With
 *[nim]: take
@@ -48,6 +53,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[ovet]: fruit
 *[ovets]: fruits
 *[rear]: raise, raise a child; breed animals
+*[scifel]: a woman's headscarf; boa
 *[seadeer]: sea creature(s)
 *[shalt]: shall
 *[slayeth]: slays
@@ -69,8 +75,11 @@ Keep it in alphabetical order so that there are no duplicates.
 *[Thou]: You
 *[Thy]: Your
 *[Thyself]: Yourself
+*[þat]: that
 *[Þe]: The
 *[þe]: the
+*[þis]: this
+*[ute]: out
 *[wassombere]: fruitful, fertile, fruit-bearing
 *[wast]: were (indicative)
 *[were]: man, husband; were (verb)
