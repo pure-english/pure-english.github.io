@@ -11,6 +11,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[bear]: give birth to; endure
 *[bore]: gave birth to
 *[borough]: city
+*[brune]: brown
 *[chyed]: called, cried (out)
 *[chyeth]: calls, cries (out)
 *[deer]: animal(s), beast(s)
@@ -36,6 +37,8 @@ Keep it in alphabetical order so that there are no duplicates.
 *[hy]: they
 *[Her]: Their, Her
 *[Hy]: They
+*[harƿeed]: armour
+*[inbowed]: arched, curved
 *[leighton]: garden (especially a kitchen garden or herb garden)
 *[Leighton]: Garden (especially a kitchen garden or herb garden)
 *[mid]: with
@@ -46,6 +49,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[ovets]: fruits
 *[rear]: raise, raise a child; breed animals
 *[seadeer]: sea creature(s)
+*[shalt]: shall
 *[slayeth]: slays
 *[smowing]: creeping, crawling
 *[sunder]: separate, split
@@ -65,6 +69,8 @@ Keep it in alphabetical order so that there are no duplicates.
 *[Thou]: You
 *[Thy]: Your
 *[Thyself]: Yourself
+*[Þe]: The
+*[þe]: the
 *[wassombere]: fruitful, fertile, fruit-bearing
 *[wast]: were (indicative)
 *[were]: man, husband; were (verb)
@@ -83,6 +89,8 @@ Keep it in alphabetical order so that there are no duplicates.
 *[worts]: herbs, plants
 *[wortwale]: plant (verb)
 *[wortwaled]: planted
+*[ƿaking]: waking
+*[ƿas]: was
 *[yave]: gave
 *[ye]: you (all)
 *[yeave]: give
