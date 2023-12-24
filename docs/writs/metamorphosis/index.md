@@ -28,9 +28,20 @@ for a man, only sumhƿat too small, lay hushedly betƿeen þe four ƿell-knoƿn
 ƿalls. Abufe þe beed, on hƿic an unpacked hoard of foresmack[^foresmack] cloþ
 goods ƿas spread ute (Samsa ƿas a ƿayfaring salesman) hung þe meting hƿic he
 had cut ute of a meted monþly book a little hƿile ago and set in a pretty gilt
-rim. It ƿas a meting of a ƿuman mid a ƿildƿaren[^ƿildƿaren] hat and a
-ƿildƿaren[^ƿildƿaren] scifel. She sat aheafed þere, heafing up in þe steer of
-þe hoƿer[^hoƿer] a stark fur glof into hƿic her hole forearm sƿund.
+rim. It ƿas a meting of a ƿuman mid a ƿildƿaren[^ƿildƿaren] hat and a ƿildƿaren
+scifel. She sat aheafed þere, heafing up in þe steer of þe hoƿer[^hoƿer] a
+stark fur glof into hƿic her hƿole[^hƿole] forearm sƿund.
+
+Gregor's glance then trended to the window. The dreary weather (the rain drops
+were falling audibly down on the metal window ledge) made him quite melancholy.
+"Why don't I keep sleeping for a little while longer and forget all this
+ƿitlessness," he thought. But this was hƿolly[^hƿole] impractical, for he was
+used to sleeping on his right side, and in his present state he couldn't get
+himself into this position. Huefer hard he threw himself onto his right
+side, he always rolled again onto his back. He must have tried it a hundred
+times, closing his eyes, so that he would not have to see the wriggling legs,
+and gave up only when he began to feel a light, dull pain in his side which he
+had never felt before.
 
 <!-- Abbreviations -->
 *[abide]: stay
@@ -48,8 +59,9 @@ rim. It ƿas a meting of a ƿuman mid a ƿildƿaren[^ƿildƿaren] hat and a
 *[glofs]: muffs, gloves
 *[harroƿing]: harrowing
 *[heafing]: lifting
-*[hole]: whole
+*[Huefer]: However
 *[Hƿat's]: What's
+*[hƿole]: whole
 *[man]: human being
 *[manifold]: numerous
 *[meted]: painted, drawn, illustrated
@@ -64,17 +76,22 @@ rim. It ƿas a meting of a ƿuman mid a ƿildƿaren[^ƿildƿaren] hat and a
 *[steer]: direction
 *[sumhƿat]: somewhat
 *[sƿund]: vanished, disappeared
+*[trended]: turned
 *[ƿent]: changed, transformed
 *[þin]: thin
+*[ƿayfaring]: travelling
 *[ƿigsum]: verminous
 *[ƿildƿaren]: fur
-*[ƿayfaring]: travelling
+*[ƿitlessness]: foolishness
 
 <!-- Footnotes -->
-[^ƿigsum]: literally *characterized by insects/bugs*.
-[^foresmack]: literally *fore-* 'before' + *smack* 'taste'.
-[^hoƿer]: literally *hoƿ* 'to view, observe' + *-er* (agent suffix).
-[^ƿildƿaren]: literally *ƿildƿare* 'furs (product)' + *-en* (adjectival suffix
+[^ƿigsum]: Literally *characterized by insects/bugs*.
+[^foresmack]: Literally *fore-* 'before' + *smack* 'taste'.
+[^hoƿer]: Literally *hoƿ* 'to view, observe' + *-er* (agent suffix).
+[^ƿildƿaren]: Literally *ƿildƿare* 'furs (product)' + *-en* (adjectival suffix
     meaning "to be made up of").
+[^hƿole]: Despite not coming from historical /hw/, English *whole* formed the
+    ⟨wh⟩ digraph due to disambiguation with English *hole*. In a world where
+    ⟨wh⟩ was instead ⟨hƿ⟩, it is likely that they would use that instead.
 
 <!-- BUFFER -->
