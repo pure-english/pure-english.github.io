@@ -66,6 +66,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[hƿolly]: wholly
 *[inbowed]: arched, curved
 *[inboƿed]: arched, curved
+*[ledg]: ledge
 *[leighton]: garden (especially a kitchen garden or herb garden)
 *[Leighton]: Garden (especially a kitchen garden or herb garden)
 *[ligt]: light
@@ -73,6 +74,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[mid]: with
 *[Mid]: With
 *[nefer]: never
+*[nige]: nigh
 *[nim]: take
 *[nimmed]: took; taken, seized
 *[outlandish]: foreign, bizarre and strange; unrealistic

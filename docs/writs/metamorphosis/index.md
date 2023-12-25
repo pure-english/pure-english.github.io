@@ -67,7 +67,7 @@ scifel. Sce sat aheafed þere, heafing up in þe steer of þe hoƿer[^hoƿer] a
 stark ƿildƿaren glof into hƿic her hƿole[^hƿole] forearm sƿund[^sƿund].
 
 Gregor's gander þen trended to þe eyedoor. Þe dreary ƿeaþer (þe rain drops ƿere
-falling alude dune on þe bloom eyedoor ledge) made him raþer sorroƿful. "Hƿy
+falling alude dune on þe bloom eyedoor ledg) made him raþer sorroƿful. "Hƿy
 don't I keep sleeping for a littel hƿile longer and forget all þis
 ƿitlessness," he þougt. But þis ƿas hƿolly[^hƿole] utelandisc, for he ƿas ƿont
 to sleeping on his rigt side, and in his anƿard hoad he couldn't get himself
