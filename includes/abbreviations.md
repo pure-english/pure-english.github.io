@@ -64,6 +64,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[hƿic]: which
 *[hƿile]: while
 *[hƿolly]: wholly
+*[hƿoonly]: small, little, slight
 *[inbowed]: arched, curved
 *[inboƿed]: arched, curved
 *[ledg]: ledge
@@ -84,6 +85,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[raþer]: rather
 *[rear]: raise, raise a child; breed animals
 *[rigt]: right
+*[scank]: leg
 *[scanks]: legs
 *[sce]: she
 *[Sce]: She
@@ -92,8 +94,11 @@ Keep it in alphabetical order so that there are no duplicates.
 *[seadeer]: sea creature(s)
 *[seller]: salesman, vendor
 *[shalt]: shall
+*[shank]: leg
 *[shanks]: legs
 *[shivel]: a woman's headscarf; boa
+*[sibred]: relationship
+*[sibreds]: relationships
 *[slayeth]: slays
 *[smowing]: creeping, crawling
 *[sorroƿful]: sorrowful
@@ -136,6 +141,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[with child]: pregnant
 *[witlessness]: foolishness
 *[wholf]: arch, vault, the sky
+*[whoonly]: small, little, slight
 *[wont to]: used to, accustomed to
 *[workest]: work
 *[wort]: herb, plant
