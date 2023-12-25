@@ -30,13 +30,13 @@ his eyes.
 “What's happened to me,” he thought. It was no dream. His room, a fitting room
 for a man, only somewhat too small, lay hushedly between the four well-known
 walls. Above the beed, on which an unpacked hoard of foresmack[^foresmack] cloth
-goods was spread out (Samsa was a wayfaring salesman) hung the meting which he
+goods was spread out (Samsa was a wayfaring seller) hung the meting which he
 had cut out of a meted monthly book a little while ago and set in a pretty gilt
 rim. It was a meting of a woman mid a wildwaren[^ƿildƿaren] hat and a wildwaren
 shivel. She sat aheaved there, heaving up in the steer of the hower[^hoƿer] a
 stark wildwaren glove into which her whole[^hƿole] forearm swound[^sƿund].
 
-Gregor's glimpse then trended to the eyedoor. The dreary weather (the rain
+Gregor's gander then trended to the eyedoor. The dreary weather (the rain
 drops were falling aloud down on the bloom eyedoor ledge) made him rather
 sorrowful. "Why don't I keep sleeping for a little while longer and foryet all
 this witlessness," he thought. But this was wholly[^hƿole] outlandish, for he
@@ -60,7 +60,7 @@ armly þin next to þe rest of his felly, flickered helplessly before his eyes.
 “Hƿat's happened to me,” he þought. It ƿas no dream. His room, a fitting room
 for a man, only sumhƿat too small, lay hushedly betƿeen þe four ƿell-knoƿn
 ƿalls. Abufe þe beed, on hƿic an unpacked hoard of foresmack[^foresmack] cloþ
-goods ƿas spread ute (Samsa ƿas a ƿayfaring salesman) hung þe meting hƿic he
+goods ƿas spread ute (Samsa ƿas a ƿayfaring seller) hung þe meting hƿic he
 had cut ute of a meted monþly book a littel hƿile ago and set in a pretty gilt
 rim. It ƿas a meting of a ƿuman mid a ƿildƿaren[^ƿildƿaren] hat and a ƿildƿaren
 scifel. She sat aheafed þere, heafing up in þe steer of þe hoƿer[^hoƿer] a

@@ -31,6 +31,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[findeth]: finds
 *[folk]: people, a people
 *[foryet]: forget
+*[gander]: (NE) a look or glance
 *[ghost]: spirit
 *[Ghost]: Spirit
 *[gilt]: (NE) golden
@@ -72,6 +73,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[rear]: raise, raise a child; breed animals
 *[scifel]: a woman's headscarf; boa
 *[seadeer]: sea creature(s)
+*[seller]: salesman, vendor
 *[shalt]: shall
 *[shivel]: a woman's headscarf; boa
 *[slayeth]: slays
