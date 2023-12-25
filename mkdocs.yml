@@ -5,14 +5,14 @@ nav:
     - index.md
   - Writs (Texts):
     - writs/index.md
-    - The Bible:
-      - writs/bible/index.md
-      - Genesis:
-        - writs/bible/genesis/index.md
-        - 1 - The beginning: writs/bible/genesis/1.md
-        - 2 - Adam and Ewe: writs/bible/genesis/2.md
-        - 3 - The fall: writs/bible/genesis/3.md
-        - 4 - Cain and Abel: writs/bible/genesis/4.md
+    # - The Bible:
+    #   - writs/bible/index.md
+    #   - Genesis:
+    #     - writs/bible/genesis/index.md
+    #     - 1 - The beginning: writs/bible/genesis/1.md
+    #     - 2 - Adam and Ewe: writs/bible/genesis/2.md
+    #     - 3 - The fall: writs/bible/genesis/3.md
+    #     - 4 - Cain and Abel: writs/bible/genesis/4.md
     - The Metamorphosis:
         - writs/metamorphosis/index.md
   - Dictionary: https://pure-english.github.io/dictionary/
