@@ -7,7 +7,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[Abufe]: above
 *[aloud]: audibly, out loud
 *[alude]: aloud; audibly, out loud
-+[alƿays]: always
+*[alƿays]: always
 *[anqueathed]: replied, responded
 *[anward]: present, current
 *[anƿard]: present, current
