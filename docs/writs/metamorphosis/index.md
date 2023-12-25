@@ -11,9 +11,9 @@ Original translation: [Wikisource]
 
 English Translation Licence: Public Domain
 
-Anglish Translation Licence: [CC BY-NC-SA 4.0]
+Anglish Translation Licence: [CC BY-SA 4.0]
 
-[CC BY-NC-SA 4.0]: https://creativecommons.org/licenses/by-nc-sa/4.0/
+[CC BY-SA 4.0]: https://creativecommons.org/licenses/by-sa/4.0/
 
 ## Story (English spelling)
 
