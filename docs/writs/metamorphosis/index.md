@@ -7,13 +7,47 @@ Author: Franz Kafka
 
 Translator: Ian Courtenay Johnston
 
+Original translation: [Wikisource]
+
 English Translation Licence: Public Domain
 
 Anglish Translation Licence: [CC BY-NC-SA 4.0]
 
 [CC BY-NC-SA 4.0]: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-## Story
+## Story (English spelling)
+
+### I
+
+One morning, as Gregor Samsa was waking up from harrowing dreams, he found out
+that in bed he had been went into a fivelish wigsome[^ƿigsum] bug. He lay on
+his harweed-hard back and saw, as he lifted his head up a little, his brown,
+inbowed belly shed into stiff bow-like deals. From this height the bedspread,
+nigh on ready to slide off altogether, could hardly abide still. His manifold
+shanks, armly thin next to the rest of his felly, flickered helplessly before
+his eyes.
+
+“What's happened to me,” he thought. It was no dream. His room, a fitting room
+for a man, only somewhat too small, lay hushedly between the four well-known
+walls. Above the beed, on which an unpacked hoard of foresmack[^foresmack] cloth
+goods was spread out (Samsa was a wayfaring salesman) hung the meting which he
+had cut out of a meted monthly book a little while ago and set in a pretty gilt
+rim. It was a meting of a woman mid a wildwaren[^ƿildƿaren] hat and a wildwaren
+shivel. She sat aheaved there, heaving up in the steer of the hower[^hoƿer] a
+stark wildwaren glove into which her whole[^hƿole] forearm swound[^sƿund].
+
+Gregor's glimpse then trended to the eyedoor. The dreary weather (the rain
+drops were falling aloud down on the bloom eyedoor ledge) made him rather
+sorrowful. "Why don't I keep sleeping for a little while longer and foryet all
+this witlessness," he thought. But this was wholly[^hƿole] outlandish, for he
+was wont to sleeping on his right side, and in his anward hoad he couldn't yet
+himself into this lie[^lie]. However hard he threw himself onto his right side,
+he always trended again onto his back. He must have fanded it a hundred times,
+shutting his eyes, so that he would not have to see the writhing[^ƿriþing]
+shanks, and gave up only when he began to feel a light, dull smart in his side
+which he had never felt before.
+
+## Story (Anglish spelling)
 
 ### I
 One morning, as Gregor Samsa ƿas ƿaking up from harroƿing dreams, he fund ute
@@ -27,38 +61,34 @@ armly þin next to þe rest of his felly, flickered helplessly before his eyes.
 for a man, only sumhƿat too small, lay hushedly betƿeen þe four ƿell-knoƿn
 ƿalls. Abufe þe beed, on hƿic an unpacked hoard of foresmack[^foresmack] cloþ
 goods ƿas spread ute (Samsa ƿas a ƿayfaring salesman) hung þe meting hƿic he
-had cut ute of a meted monþly book a little hƿile ago and set in a pretty gilt
+had cut ute of a meted monþly book a littel hƿile ago and set in a pretty gilt
 rim. It ƿas a meting of a ƿuman mid a ƿildƿaren[^ƿildƿaren] hat and a ƿildƿaren
 scifel. She sat aheafed þere, heafing up in þe steer of þe hoƿer[^hoƿer] a
-stark fur glof into hƿic her hƿole[^hƿole] forearm sƿund.
+stark ƿildƿaren glof into hƿic her hƿole[^hƿole] forearm sƿund[^sƿund].
 
-Gregor's glance then trended to the window. The dreary weather (the rain drops
-were falling audibly down on the metal window ledge) made him quite melancholy.
-"Why don't I keep sleeping for a little while longer and forget all this
-ƿitlessness," he thought. But this was hƿolly[^hƿole] impractical, for he was
-used to sleeping on his right side, and in his present state he couldn't get
-himself into this position. Huefer hard he threw himself onto his right
-side, he always rolled again onto his back. He must have tried it a hundred
-times, closing his eyes, so that he would not have to see the wriggling legs,
-and gave up only when he began to feel a light, dull pain in his side which he
-had never felt before.
+
 
 <!-- Abbreviations -->
 *[abide]: stay
 *[aheafed]: raised, erect
+*[aheaved]: raised, erect
 *[altogeþer]: altogether
 *[armly]: pitifully
 *[bedspread]: blanket
+*[bloom]: metal
 *[boƿ-like]: bow-like
 *[deals]: sections, parts
 *[felly]: circumference
 *[fifelisc]: monstrous
+*[fivelish]: monstrous
 *[foresmack]: sample
 *[fund]: found
 *[glof]: muff, glove
 *[glofs]: muffs, gloves
 *[harroƿing]: harrowing
 *[heafing]: lifting
+*[heaving]: lifting
+*[hoad]: state, condition
 *[Huefer]: However
 *[Hƿat's]: What's
 *[hƿole]: whole
@@ -67,22 +97,31 @@ had never felt before.
 *[meted]: painted, drawn, illustrated
 *[meting]: picture, painting, image
 *[monþly book]: a monthly periodical or magazine
+*[monthly book]: a monthly periodical or magazine
 *[nige on]: just about
 *[saƿ]: saw
 *[Scapescifting]: Metamorphosis
 *[scanks]: legs
 *[sced]: divided
+*[shanks]: legs
+*[shed]: divided
+*[smart]: pain
 *[stark]: rigid, solid
 *[steer]: direction
 *[sumhƿat]: somewhat
 *[sƿund]: vanished, disappeared
-*[trended]: turned
+*[swound]: vanished, disappeared
+*[trended]: turned, rolled
 *[ƿent]: changed, transformed
+*[went]: changed, transformed
 *[þin]: thin
 *[ƿayfaring]: travelling
 *[ƿigsum]: verminous
+*[wigsome]: verminous
 *[ƿildƿaren]: fur
+*[wildwaren]: fur
 *[ƿitlessness]: foolishness
+*[ƿriþing]: writhing; org. wriggling
 
 <!-- Footnotes -->
 [^ƿigsum]: Literally *characterized by insects/bugs*.
@@ -93,5 +132,16 @@ had never felt before.
 [^hƿole]: Despite not coming from historical /hw/, English *whole* formed the
     ⟨wh⟩ digraph due to disambiguation with English *hole*. In a world where
     ⟨wh⟩ was instead ⟨hƿ⟩, it is likely that they would use that instead.
+[^sƿund]: An irregular verb whose lemma is *swind*/*sƿind*.
+[^lie]: From New/Modern English, this usage of *lie* here means “the way,
+    direction, or position in which something lies”.
+[^ƿriþing]: The original English word used here, *wriggling*, is not of Old
+    English origin, and was instead borrowed in the late 15th century from
+    Middle Low German *wrigglen*. It is likely we would've borrowed this
+    anyway, but I opted to use an existing English synonym that was purely
+    English instead.
+
+<!-- URLs -->
+[Wikisource]: https://en.wikisource.org/wiki/The_Metamorphosis_(1999)
 
 <!-- BUFFER -->

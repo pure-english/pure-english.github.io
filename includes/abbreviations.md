@@ -5,7 +5,10 @@ Keep it in alphabetical order so that there are no duplicates.
 -->
 
 *[Abufe]: above
+*[aloud]: audibly, out loud
 *[anqueathed]: replied, responded
+*[anward]: present, current
+*[anƿard]: present, current
 *[art]: are
 *[atithed]: granted, allowed
 *[ayen]: again
@@ -21,10 +24,13 @@ Keep it in alphabetical order so that there are no duplicates.
 *[deer]: animal(s), beast(s)
 *[eatest]: eat
 *[Ewe]: Eve
+*[eyedoor]: window
+*[fanded]: tried, attempted
 *[feathered]: winged, fleet
 *[feelfold]: increase in number, multiply
 *[findeth]: finds
 *[folk]: people, a people
+*[foryet]: forget
 *[ghost]: spirit
 *[Ghost]: Spirit
 *[gilt]: (NE) golden
@@ -41,10 +47,13 @@ Keep it in alphabetical order so that there are no duplicates.
 *[hers]: theirs, hers
 *[housel]: offering to a god; the Eucharist
 *[hoƿer]: viewer, observer
+*[hower]: viewer, observer
+*[hushedly]: quietly, softly
 *[hy]: they
 *[Her]: Their, Her
 *[Hy]: They
 *[harƿeed]: armour
+*[harweed]: armour
 *[hƿic]: which
 *[hƿile]: while
 *[inbowed]: arched, curved
@@ -56,12 +65,15 @@ Keep it in alphabetical order so that there are no duplicates.
 *[Mid]: With
 *[nim]: take
 *[nimmed]: took; taken, seized
+*[outlandish]: foreign, bizarre and strange; unrealistic
+*[utelandisc]: foreign, bizarre and strange; unrealistic
 *[ovet]: fruit
 *[ovets]: fruits
 *[rear]: raise, raise a child; breed animals
 *[scifel]: a woman's headscarf; boa
 *[seadeer]: sea creature(s)
 *[shalt]: shall
+*[shivel]: a woman's headscarf; boa
 *[slayeth]: slays
 *[smowing]: creeping, crawling
 *[sunder]: separate, split
@@ -110,11 +122,14 @@ Keep it in alphabetical order so that there are no duplicates.
 *[ƿalls]: walls
 *[ƿas]: was
 *[ƿell-knoƿn]: well-known
+*[wont to]: used to, accustomed to
+*[ƿont to]: used to, accustomed to
 *[ƿuman]: woman
 *[yave]: gave
 *[ye]: you (all)
 *[yeave]: give
 *[yeaven]: given
+*[yet]: get; yet
 *[you]: you (all)
 *[your]: all of your
 *[yours]: all of yours
