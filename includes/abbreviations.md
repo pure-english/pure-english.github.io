@@ -6,6 +6,8 @@ Keep it in alphabetical order so that there are no duplicates.
 
 *[Abufe]: above
 *[aloud]: audibly, out loud
+*[alude]: aloud; audibly, out loud
++[alƿays]: always
 *[anqueathed]: replied, responded
 *[anward]: present, current
 *[anƿard]: present, current
@@ -34,8 +36,10 @@ Keep it in alphabetical order so that there are no duplicates.
 *[gander]: (NE) a look or glance
 *[ghost]: spirit
 *[Ghost]: Spirit
+*[gielded]: yielded, gave up
 *[gilt]: (NE) golden
 *[gleen]: musical
+*[haf]: have
 *[hame]: covering
 *[hames]: coverings
 *[hast]: have
@@ -49,35 +53,48 @@ Keep it in alphabetical order so that there are no duplicates.
 *[housel]: offering to a god; the Eucharist
 *[hoƿer]: viewer, observer
 *[hower]: viewer, observer
+*[huscedly]: quietly, softly
 *[hushedly]: quietly, softly
 *[hy]: they
 *[Her]: Their, Her
 *[Hy]: They
 *[harƿeed]: armour
 *[harweed]: armour
+*[hƿen]: when
 *[hƿic]: which
 *[hƿile]: while
+*[hƿolly]: wholly
 *[inbowed]: arched, curved
 *[inboƿed]: arched, curved
 *[leighton]: garden (especially a kitchen garden or herb garden)
 *[Leighton]: Garden (especially a kitchen garden or herb garden)
+*[ligt]: light
 *[littel]: little
 *[mid]: with
 *[Mid]: With
+*[nefer]: never
 *[nim]: take
 *[nimmed]: took; taken, seized
 *[outlandish]: foreign, bizarre and strange; unrealistic
 *[utelandisc]: foreign, bizarre and strange; unrealistic
 *[ovet]: fruit
 *[ovets]: fruits
+*[raþer]: rather
 *[rear]: raise, raise a child; breed animals
+*[rigt]: right
+*[scanks]: legs
+*[sce]: she
+*[Sce]: She
 *[scifel]: a woman's headscarf; boa
+*[scutting]: shutting
 *[seadeer]: sea creature(s)
 *[seller]: salesman, vendor
 *[shalt]: shall
+*[shanks]: legs
 *[shivel]: a woman's headscarf; boa
 *[slayeth]: slays
 *[smowing]: creeping, crawling
+*[sorroƿful]: sorrowful
 *[sunder]: separate, split
 *[sundered]: separated, split
 *[sweetwatered]: fragrant, having a pleasant smell
@@ -100,7 +117,8 @@ Keep it in alphabetical order so that there are no duplicates.
 *[þe]: the
 *[þere]: there
 *[þis]: this
-*[þought]: thought
+*[þougt]: thought
+*[þreƿ]: threw
 *[ute]: out
 *[wassombere]: fruitful, fertile, fruit-bearing
 *[wast]: were (indicative)
@@ -115,6 +133,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[wissly]: certainly, surely
 *[with child]: pregnant
 *[wholf]: arch, vault, the sky
+*[wont to]: used to, accustomed to
 *[workest]: work
 *[wort]: herb, plant
 *[worts]: herbs, plants
@@ -123,9 +142,12 @@ Keep it in alphabetical order so that there are no duplicates.
 *[ƿaking]: waking
 *[ƿalls]: walls
 *[ƿas]: was
+*[ƿeaþer]: weather
 *[ƿell-knoƿn]: well-known
-*[wont to]: used to, accustomed to
+*[ƿere]: were
+*[ƿitlessness]: foolishness
 *[ƿont to]: used to, accustomed to
+*[ƿould]: would
 *[ƿuman]: woman
 *[yave]: gave
 *[ye]: you (all)

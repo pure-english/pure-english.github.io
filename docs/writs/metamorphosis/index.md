@@ -36,15 +36,15 @@ rim. It was a meting of a woman mid a wildwaren[^ƿildƿaren] hat and a wildware
 shivel. She sat aheaved there, heaving up in the steer of the hower[^hoƿer] a
 stark wildwaren glove into which her whole[^hƿole] forearm swound[^sƿund].
 
-Gregor's gander then trended to the eyedoor. The dreary weather (the rain
-drops were falling aloud down on the bloom eyedoor ledge) made him rather
-sorrowful. "Why don't I keep sleeping for a little while longer and foryet all
-this witlessness," he thought. But this was wholly[^hƿole] outlandish, for he
-was wont to sleeping on his right side, and in his anward hoad he couldn't yet
+Gregor's gander then trended to the eyedoor. The dreary weather (the rain drops
+were falling aloud down on the bloom eyedoor ledge) made him rather sorrowful.
+"Why don't I keep sleeping for a little while longer and foryet all this
+witlessness," he thought. But this was wholly[^hƿole] outlandish, for he was
+wont to sleeping on his right side, and in his anward hoad he couldn't yet
 himself into this lie[^lie]. However hard he threw himself onto his right side,
 he always trended again onto his back. He must have fanded it a hundred times,
 shutting his eyes, so that he would not have to see the writhing[^ƿriþing]
-shanks, and gave up only when he began to feel a light, dull smart in his side
+shanks, and yielded only when he began to feel a light, dull smart in his side
 which he had never felt before.
 
 ## Story (Anglish spelling)
@@ -57,16 +57,25 @@ inboƿed belly sced into stiff boƿ-like deals. From þis heigt þe bedspread, n
 on ready to slide off altogeþer, could hardly abide still. His manifold scanks,
 armly þin next to þe rest of his felly, flickered helplessly before his eyes.
 
-“Hƿat's happened to me,” he þought. It ƿas no dream. His room, a fitting room
-for a man, only sumhƿat too small, lay hushedly betƿeen þe four ƿell-knoƿn
+“Hƿat's happened to me,” he þougt. It ƿas no dream. His room, a fitting room
+for a man, only sumhƿat too small, lay huscedly betƿeen þe four ƿell-knoƿn
 ƿalls. Abufe þe beed, on hƿic an unpacked hoard of foresmack[^foresmack] cloþ
-goods ƿas spread ute (Samsa ƿas a ƿayfaring seller) hung þe meting hƿic he
-had cut ute of a meted monþly book a littel hƿile ago and set in a pretty gilt
-rim. It ƿas a meting of a ƿuman mid a ƿildƿaren[^ƿildƿaren] hat and a ƿildƿaren
-scifel. She sat aheafed þere, heafing up in þe steer of þe hoƿer[^hoƿer] a
+goods ƿas spread ute (Samsa ƿas a ƿayfaring seller) hung þe meting hƿic he had
+cut ute of a meted monþly book a littel hƿile ago and set in a pretty gilt rim.
+It ƿas a meting of a ƿuman mid a ƿildƿaren[^ƿildƿaren] hat and a ƿildƿaren
+scifel. Sce sat aheafed þere, heafing up in þe steer of þe hoƿer[^hoƿer] a
 stark ƿildƿaren glof into hƿic her hƿole[^hƿole] forearm sƿund[^sƿund].
 
-
+Gregor's gander þen trended to þe eyedoor. Þe dreary ƿeaþer (þe rain drops ƿere
+falling alude dune on þe bloom eyedoor ledge) made him raþer sorroƿful. "Hƿy
+don't I keep sleeping for a littel hƿile longer and forget all þis
+ƿitlessness," he þougt. But þis ƿas hƿolly[^hƿole] utelandisc, for he ƿas ƿont
+to sleeping on his rigt side, and in his anƿard hoad he couldn't get himself
+into þis lie[^lie]. Huefer hard he þreƿ himself onto his rigt side, he alƿays
+trended again onto his back. He must haf fanded it a hundred times, scutting
+his eyes, so þat he ƿould not haf to see þe ƿriþing[^ƿriþing] scanks, and
+gielded only hƿen he began to feel a ligt, dull smart in his side hƿic he had
+nefer felt before.
 
 <!-- Abbreviations -->
 *[abide]: stay
@@ -101,9 +110,7 @@ stark ƿildƿaren glof into hƿic her hƿole[^hƿole] forearm sƿund[^sƿund].
 *[nige on]: just about
 *[saƿ]: saw
 *[Scapescifting]: Metamorphosis
-*[scanks]: legs
 *[sced]: divided
-*[shanks]: legs
 *[shed]: divided
 *[smart]: pain
 *[stark]: rigid, solid
@@ -120,7 +127,6 @@ stark ƿildƿaren glof into hƿic her hƿole[^hƿole] forearm sƿund[^sƿund].
 *[wigsome]: verminous
 *[ƿildƿaren]: fur
 *[wildwaren]: fur
-*[ƿitlessness]: foolishness
 *[ƿriþing]: writhing; org. wriggling
 
 <!-- Footnotes -->
