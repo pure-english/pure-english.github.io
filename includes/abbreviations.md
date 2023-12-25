@@ -134,6 +134,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[wilt]: will
 *[wissly]: certainly, surely
 *[with child]: pregnant
+*[witlessness]: foolishness
 *[wholf]: arch, vault, the sky
 *[wont to]: used to, accustomed to
 *[workest]: work
