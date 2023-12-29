@@ -5,9 +5,9 @@ Story name: Þe Scapescifting (The Metamorphosis)
 
 Author: Franz Kafka
 
-Translator: Ian Courtenay Johnston
+English Translator: Ian Courtenay Johnston
 
-Original translation: [Wikisource]
+English Translation: [Wikisource]
 
 English Translation Licence: Public Domain
 

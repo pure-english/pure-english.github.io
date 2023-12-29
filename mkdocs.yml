@@ -15,11 +15,13 @@ nav:
     #     - 4 - Cain and Abel: writs/bible/genesis/4.md
     - Books and Stories:
         - writs/books/index.md
+        - A Country Doctor:
+            - writs/a-country-doctor/index.md
         - The Metamorphosis:
             - writs/metamorphosis/index.md
     - Songs:
         writs/songs/index.md
-
+  - Editor: https://pure-english.github.io/dictionary/editor/
   - Dictionary: https://pure-english.github.io/dictionary/
   - Name Generator: https://pure-english.github.io/name-generator/
   - Blog:

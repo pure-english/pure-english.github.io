@@ -8,6 +8,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[aloud]: audibly, out loud
 *[alude]: aloud; audibly, out loud
 *[alƿays]: always
+*[anlet]: face, appearance
 *[anqueathed]: replied, responded
 *[anward]: present, current
 *[anƿard]: present, current
@@ -17,21 +18,28 @@ Keep it in alphabetical order so that there are no duplicates.
 *[bear]: give birth to; endure
 *[beed]: table
 *[betƿeen]: between
+*[Bewoven]: Wrapped up, Enveloped, Clothed, Entwined
+*[biding]: waiting, staying, remaining
+*[bloakern]: lamp, lantern; light place
 *[bore]: gave birth to
 *[borough]: city
 *[brune]: brown
 *[chyed]: called, cried (out)
 *[chyeth]: calls, cries (out)
 *[cloþ]: cloth
+*[dead-on]: accurate
 *[deer]: animal(s), beast(s)
+*[dost]: do
 *[eatest]: eat
 *[Ewe]: Eve
 *[eyedoor]: window
+*[fared]: travelled, journeyed, voyaged
 *[fanded]: tried, attempted
 *[feathered]: winged, fleet
 *[feelfold]: increase in number, multiply
 *[findeth]: finds
 *[folk]: people, a people
+*[forewarning]: (NE) premonition
 *[foryet]: forget
 *[gander]: (NE) a look or glance
 *[ghost]: spirit
@@ -39,9 +47,11 @@ Keep it in alphabetical order so that there are no duplicates.
 *[gielded]: yielded, gave up
 *[gilt]: (NE) golden
 *[gleen]: musical
+*[grilled]: provoked, annoyed, irritated, offended
 *[haf]: have
 *[hame]: covering
 *[hames]: coverings
+*[handmaid]: personal maid or female servant
 *[hast]: have
 *[headwaters]: (NE) the sources of a river
 *[heigt]: height
@@ -50,6 +60,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[hemselves]: themselves
 *[her]: their, her
 *[hers]: theirs, hers
+*[hewn-eyed]: blue-eyed, azure-eyed
 *[housel]: offering to a god; the Eucharist
 *[hoƿer]: viewer, observer
 *[hower]: viewer, observer
@@ -65,15 +76,19 @@ Keep it in alphabetical order so that there are no duplicates.
 *[hƿile]: while
 *[hƿolly]: wholly
 *[hƿoonly]: small, little, slight
+*[in sooth]: in truth, in fact, truly, in reality
 *[inbowed]: arched, curved
 *[inboƿed]: arched, curved
+*[inhide]: thought, intent(ion)
 *[ledg]: ledge
 *[leighton]: garden (especially a kitchen garden or herb garden)
 *[Leighton]: Garden (especially a kitchen garden or herb garden)
 *[ligt]: light
 *[littel]: little
+*[loave]: price, value, offer for sale
 *[mid]: with
 *[Mid]: With
+*[mustbeness]: inevitability
 *[nefer]: never
 *[nige]: nigh
 *[nim]: take
@@ -82,6 +97,9 @@ Keep it in alphabetical order so that there are no duplicates.
 *[utelandisc]: foreign, bizarre and strange; unrealistic
 *[ovet]: fruit
 *[ovets]: fruits
+*[potes]: pushes, pokes, thrusts
+*[quole]: died, perished
+*[rackent]: chain
 *[raþer]: rather
 *[rear]: raise, raise a child; breed animals
 *[rigt]: right
@@ -102,13 +120,17 @@ Keep it in alphabetical order so that there are no duplicates.
 *[slayeth]: slays
 *[smowing]: creeping, crawling
 *[sorroƿful]: sorrowful
+*[spurned]: kicked; rejected with scorn; refused to use
 *[sunder]: separate, split
 *[sundered]: separated, split
 *[sweetwatered]: fragrant, having a pleasant smell
+*[swey]: sound, make noise; sound, noise
+*[swingeing]: drastic, severe, extreme
 *[teld]: tent
 *[telds]: tents
 *[thee]: you
 *[thine]: your, yours
+*[thorp]: village, hamlet
 *[thou]: you
 *[thy]: your
 *[thyself]: yourself
@@ -126,16 +148,22 @@ Keep it in alphabetical order so that there are no duplicates.
 *[þis]: this
 *[þougt]: thought
 *[þreƿ]: threw
+*[unmightly]: impossible
 *[ute]: out
+*[wain]: wagon, cart, car, vehicle; carriage
 *[wassombere]: fruitful, fertile, fruit-bearing
 *[wast]: were (indicative)
+*[wawed]: swayed, moved, stirred
+*[wayfare]: journey
 *[were]: man, husband; were (verb)
 *[werely]: male, masculine
 *[wert]: were (subjunctive)
 *[wife]: woman; wife (with possessive)
+*[wird]: fate
 *[wives]: women; wives (with possessive)
 *[wifely]: female, feminine
 <!-- *[willest]: will | Archaic -->
+*[wildware]: furs (as a product)
 *[wilt]: will
 *[wissly]: certainly, surely
 *[with child]: pregnant
@@ -143,6 +171,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[wholf]: arch, vault, the sky
 *[whoonly]: small, little, slight
 *[wont to]: used to, accustomed to
+*[Woored]: distracted, disturbed
 *[workest]: work
 *[wort]: herb, plant
 *[worts]: herbs, plants
@@ -162,7 +191,10 @@ Keep it in alphabetical order so that there are no duplicates.
 *[ye]: you (all)
 *[yeave]: give
 *[yeaven]: given
+*[yesternight]: last night
 *[yet]: get; yet
+*[yetting]: getting
+*[Yiddy-up]: Giddy-up
 *[you]: you (all)
 *[your]: all of your
 *[yours]: all of yours
