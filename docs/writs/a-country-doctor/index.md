@@ -25,6 +25,9 @@ Anglish Translation Licence: [CC BY-SA 4.0]
 Translations:
 servant girl - handmaid
 groom/male servant (esp. on a farm) - horse-hew (lit. horse-servant)
+like - ylike
+courtyard - worth
+carriage - wain
 -->
 
 ## Story
@@ -52,7 +55,7 @@ laughed. “Hey Brother, hey Sister,” the horse-hew remed out, and two horses,
 mighty deer with strong sides, shoved her way one behind the other, shanks nigh
 the bodies, lowering her well-shaped heads like *camels*, and yetting through
 the door room, which hy thoroughly filled, only through the strong wamble of
-her behinds. But right away they stood up straight, long shanked, with thick
+her behinds. But right away hy stood up straight, long shanked, with thick
 steaming bodies. “Help him,” I said, and the girl towardly hurried to hand the
 wain *harness* to the horse-hew. But as soon as she was beside him, the
 horse-hew puts his arms around her and potes his anlet against hers. She
@@ -72,19 +75,39 @@ lock swey. I see how furthermore she runs down the row[^row] and through the
 rooms putting out all the lights for the sake of making herself unmightly to
 find. “You’re coming with me,” I say to the horse-hew, "or I’ll give up the
 wayfare, however earnest it is. It’s not my inhide to give you the girl as the
-loave of the fare.” “Yiddy-up,” he says and *claps*[^claps] his hands.
+loave of the fare.” “Yiddy-up,” he says and *claps*[^claps] his hands. The wain
+is torn away, like a bit of wood in a farth. I still hear how the door of my
+house is breaking down and splitting asunder under the horse-hew’s
+onslaught[^onslaught], and then my eyes and ears are filled with a roaring swey
+which overwhelms all my feelings at once. But only for an eyeblink. Then I am
+already there, as if the barton of my sickwere opens up at once afore my worth
+yate. The horses stand whistly. The snowfall has stopped, moonlight all around.
+The sick were’s folks hurled out of the house, his sister behind hem. Hy almost
+heave me out of the wain. I yet nothing from her addled talking. In the sick
+room one can hardly breathe the lift. The forsaken *cooking stove* is smoking.
+I want to pote open the eyedoor, but first I’ll look at the sick were. Thin,
+without rith, not cold, not warm, with empty eyes, without a shirt, the young
+man under the crammed bedspread heaves himself up, hangs about my throat, and
+whispers in my ear, “Leech, let me dead.” I look about. No one has heard. The
+alders stand stilly, leaning forward, and bide for my thoughts.
 
 <!-- Abbreviations -->
+*[alders]: parents
 *[ayenst]: against, facing (an event), anticipating, expecting
 *[beset]: surrounded, covered with
 *[cod]: bag, sack, pouch
+*[crammed]: stuffed, filled to capacity
+*[dead]: (verb) die; (adj) dead
 *[earnest]: urgent, serious, important
 *[earnestly]: seriously, urgently
+*[feelings]: senses, sensations; feelings, emotions
+*[folks]: people(s); parents (possessive)
 *[foreyate]: front gate, main entrance
 *[fremmedling]: (NE, obsolete) stranger, foreigner
 *[gramed]: tormented, grieved
 *[horse-hew]: person employed to take care of horses (lit. horse-servant)
-*[leech]: Doctor
+*[hurled]: rushed
+*[leech]: doctor
 *[Leech]: Doctor
 *[nigh]: close to, near
 *[reeseing]: rattling, shaking, clattering
@@ -94,6 +117,8 @@ loave of the fare.” “Yiddy-up,” he says and *claps*[^claps] his hands.
 *[Rich]: Country
 *[room]: space; room
 *[shanked]: legged
+*[sickman]: one who is sick; a patient
+*[sickwere]: man who is sick; a male patient
 *[steadfast]: immobile, unmoving
 *[sty]: (NE) pig pen
 *[tools]: instruments; tools
@@ -117,5 +142,7 @@ loave of the fare.” “Yiddy-up,” he says and *claps*[^claps] his hands.
 [^claps]: Either from Old English or Old Norse, but at least half the senses
     are probably influenced from Old Norse. However, no other Anglish
     alternative exists, so this will have to do.
+[^onslaught]: Formed within English with fully Anglish words, but it was
+    modelled on Dutch *aanslag*.
 
 <!-- BUFFER -->

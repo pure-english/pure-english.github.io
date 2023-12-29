@@ -5,6 +5,8 @@ Keep it in alphabetical order so that there are no duplicates.
 -->
 
 *[Abufe]: above
+*[addled]: confused, addled
+*[afore]: in front of, before; opposite
 *[aloud]: audibly, out loud
 *[alude]: aloud; audibly, out loud
 *[alƿays]: always
@@ -13,12 +15,16 @@ Keep it in alphabetical order so that there are no duplicates.
 *[anward]: present, current
 *[anƿard]: present, current
 *[art]: are
+*[asunder]: apart
 *[atithed]: granted, allowed
 *[ayen]: again
+*[barton]: farmyard
 *[bear]: give birth to; endure
+*[bedspread]: blanket, duvet, quilt
 *[beed]: table
 *[betƿeen]: between
 *[Bewoven]: Wrapped up, Enveloped, Clothed, Entwined
+*[bide]: wait, stay, remain
 *[biding]: waiting, staying, remaining
 *[bloakern]: lamp, lantern; light place
 *[bore]: gave birth to
@@ -32,8 +38,11 @@ Keep it in alphabetical order so that there are no duplicates.
 *[dost]: do
 *[eatest]: eat
 *[Ewe]: Eve
+*[eyeblink]: instant, moment
 *[eyedoor]: window
+*[fare]: (V) travel, journey, voyage; (N) journey
 *[fared]: travelled, journeyed, voyaged
+*[farth]: current, tide, shore
 *[fanded]: tried, attempted
 *[feathered]: winged, fleet
 *[feelfold]: increase in number, multiply
@@ -54,6 +63,8 @@ Keep it in alphabetical order so that there are no duplicates.
 *[handmaid]: personal maid or female servant
 *[hast]: have
 *[headwaters]: (NE) the sources of a river
+*[heave]: lift, elevate
+*[heaves]: lifts, elevates
 *[heigt]: height
 *[hem]: them
 *[hemself]: themself (singular)
@@ -83,6 +94,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[ledg]: ledge
 *[leighton]: garden (especially a kitchen garden or herb garden)
 *[Leighton]: Garden (especially a kitchen garden or herb garden)
+*[lift]: air, the sky, the heavens
 *[ligt]: light
 *[littel]: little
 *[loave]: price, value, offer for sale
@@ -97,12 +109,14 @@ Keep it in alphabetical order so that there are no duplicates.
 *[utelandisc]: foreign, bizarre and strange; unrealistic
 *[ovet]: fruit
 *[ovets]: fruits
+*[pote]: push, poke, thrust
 *[potes]: pushes, pokes, thrusts
 *[quole]: died, perished
 *[rackent]: chain
 *[raþer]: rather
 *[rear]: raise, raise a child; breed animals
 *[rigt]: right
+*[rith]: fever
 *[scank]: leg
 *[scanks]: legs
 *[sce]: she
@@ -121,6 +135,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[smowing]: creeping, crawling
 *[sorroƿful]: sorrowful
 *[spurned]: kicked; rejected with scorn; refused to use
+*[stilly]: (NE) silent, calm
 *[sunder]: separate, split
 *[sundered]: separated, split
 *[sweetwatered]: fragrant, having a pleasant smell
@@ -158,6 +173,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[were]: man, husband; were (verb)
 *[werely]: male, masculine
 *[wert]: were (subjunctive)
+*[whistly]: silently, quietly
 *[wife]: woman; wife (with possessive)
 *[wird]: fate
 *[wives]: women; wives (with possessive)
@@ -187,6 +203,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[ƿont to]: used to, accustomed to
 *[ƿould]: would
 *[ƿuman]: woman
+*[yate]: gate
 *[yave]: gave
 *[ye]: you (all)
 *[yeave]: give
