@@ -13,8 +13,8 @@ nav:
             - writs/bible/index.md
             - Genesis:
                 - writs/bible/genesis/index.md
-                - 1: writs/bible/genesis/1.md
-                - 2: writs/bible/genesis/2.md
+                - 1 - The Beginning: writs/bible/genesis/1.md
+                - 2 - Adam and Ewe: writs/bible/genesis/2.md
         - The Metamorphosis:
             - writs/metamorphosis/index.md
     # - Songs:
