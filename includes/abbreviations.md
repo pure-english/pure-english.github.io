@@ -7,10 +7,11 @@ Keep it in alphabetical order so that there are no duplicates.
 *[Abufe]: above
 *[addled]: confused, addled
 *[afore]: in front of, before; opposite
+*[agoing]: moving, travelling, proceeding, passing
 *[aloud]: audibly, out loud
 *[alude]: aloud; audibly, out loud
 *[alƿays]: always
-*[anlet]: face, appearance
+*[anlet]: face, appearance; surface (metaphorical)
 *[anqueathed]: replied, responded
 *[anward]: present, current
 *[anƿard]: present, current
@@ -33,6 +34,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[chyed]: called, cried (out)
 *[chyeth]: calls, cries (out)
 *[cloþ]: cloth
+*[creepeth]: creeps
 *[dead-on]: accurate
 *[deer]: animal(s), beast(s)
 *[dost]: do
@@ -50,6 +52,8 @@ Keep it in alphabetical order so that there are no duplicates.
 *[folk]: people, a people
 *[forewarning]: (NE) premonition
 *[foryet]: forget
+*[fowl]: (NE) bird
+*[full]: (NE) very; full
 *[gander]: (NE) a look or glance
 *[ghost]: spirit
 *[Ghost]: Spirit
@@ -100,13 +104,15 @@ Keep it in alphabetical order so that there are no duplicates.
 *[loave]: price, value, offer for sale
 *[mid]: with
 *[Mid]: With
+*[moveth]: moves
 *[mustbeness]: inevitability
 *[nefer]: never
 *[nige]: nigh
 *[nim]: take
 *[nimmed]: took; taken, seized
+*[orf]: cattle, livestock
+*[other]: second; other
 *[outlandish]: foreign, bizarre and strange; unrealistic
-*[utelandisc]: foreign, bizarre and strange; unrealistic
 *[ovet]: fruit
 *[ovets]: fruits
 *[pote]: push, poke, thrust
@@ -117,6 +123,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[rear]: raise, raise a child; breed animals
 *[rigt]: right
 *[rith]: fever
+*[rodder]: the firmament, outer space, aether
 *[scank]: leg
 *[scanks]: legs
 *[sce]: she
@@ -125,9 +132,11 @@ Keep it in alphabetical order so that there are no duplicates.
 *[scutting]: shutting
 *[seadeer]: sea creature(s)
 *[seller]: salesman, vendor
+*[shaft]: creature, creation; element, substance
 *[shalt]: shall
 *[shank]: leg
 *[shanks]: legs
+*[shed]: divide(d), separate(d); differentiate(d), distinguish(ed)
 *[shivel]: a woman's headscarf; boa
 *[sibred]: relationship
 *[sibreds]: relationships
@@ -136,11 +145,14 @@ Keep it in alphabetical order so that there are no duplicates.
 *[sorroƿful]: sorrowful
 *[spurned]: kicked; rejected with scorn; refused to use
 *[stilly]: (NE) silent, calm
+*[stir]: move, move about; become active; incite to action, disturb
+*[stirred]: moved, moved about; became active; incited to action, disturbed
 *[sunder]: separate, split
 *[sundered]: separated, split
 *[sweetwatered]: fragrant, having a pleasant smell
 *[swey]: sound, make noise; sound, noise
 *[swingeing]: drastic, severe, extreme
+*[tame]: (NE) subdue, domesticate, cultivate; tame
 *[teld]: tent
 *[telds]: tents
 *[thee]: you
@@ -150,8 +162,6 @@ Keep it in alphabetical order so that there are no duplicates.
 *[thy]: your
 *[thyself]: yourself
 *[thwarst]: across
-*[tider]: have/beget offspring, multiply
-*[twoth]: second
 *[Thine]: Your, Yours
 *[Thou]: You
 *[Thy]: Your
@@ -163,8 +173,13 @@ Keep it in alphabetical order so that there are no duplicates.
 *[þis]: this
 *[þougt]: thought
 *[þreƿ]: threw
+*[tider]: have/beget offspring, multiply
+*[token]: sign, badge, marking, mark, symbol; token
+*[tokens]: signs, badges, markings, marks, symbols; tokens
+*[twoth]: second
 *[unmightly]: impossible
 *[ute]: out
+*[utelandisc]: foreign, bizarre and strange; unrealistic
 *[wain]: wagon, cart, car, vehicle; carriage
 *[wassombere]: fruitful, fertile, fruit-bearing
 *[wast]: were (indicative)
@@ -174,6 +189,8 @@ Keep it in alphabetical order so that there are no duplicates.
 *[werely]: male, masculine
 *[wert]: were (subjunctive)
 *[whistly]: silently, quietly
+*[wield]: (N&V) rule, reign, control, command, govern; (N) command, control,
+domain
 *[wife]: woman; wife (with possessive)
 *[wird]: fate
 *[wives]: women; wives (with possessive)
@@ -206,6 +223,8 @@ Keep it in alphabetical order so that there are no duplicates.
 *[yate]: gate
 *[yave]: gave
 *[ye]: you (all)
+*[yeartide]: season (of a year)
+*[yeartides]: seasons (of a year)
 *[yeave]: give
 *[yeaven]: given
 *[yesternight]: last night

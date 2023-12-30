@@ -5,11 +5,11 @@ nav:
     - index.md
   - Writs (Texts):
     - writs/index.md
-    # - The Bible:
-    #   - writs/bible/index.md
-    #   - Genesis:
-    #     - writs/bible/genesis/index.md
-    #     - 1 - The beginning: writs/bible/genesis/1.md
+    - The Bible:
+      - writs/bible/index.md
+      - Genesis:
+        - writs/bible/genesis/index.md
+        - 1: writs/bible/genesis/1.md
     #     - 2 - Adam and Ewe: writs/bible/genesis/2.md
     #     - 3 - The fall: writs/bible/genesis/3.md
     #     - 4 - Cain and Abel: writs/bible/genesis/4.md
