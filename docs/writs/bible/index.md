@@ -57,6 +57,7 @@ the [CC BY-SA 4.0] licence.
 * Instead of *divide* (as in partitioning), use *shed*. In the sense of
   physically dividing, use *sunder*.
 * Use *fowl* instead of *bird*, as it has a more certain origin
+* Use *Drighten* instead of *Lord*
 
 #### Word Choice
 

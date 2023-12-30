@@ -19,10 +19,13 @@ Keep it in alphabetical order so that there are no duplicates.
 *[asunder]: apart
 *[atithed]: granted, allowed
 *[ayen]: again
+*[bade]: (NE) commanded
 *[barton]: farmyard
 *[bear]: give birth to; endure
 *[bedspread]: blanket, duvet, quilt
 *[beed]: table
+*[belap]: surround, envelop
+*[belapeth]: surrounds, envelops
 *[betƿeen]: between
 *[Bewoven]: Wrapped up, Enveloped, Clothed, Entwined
 *[bide]: wait, stay, remain
@@ -35,9 +38,15 @@ Keep it in alphabetical order so that there are no duplicates.
 *[chyeth]: calls, cries (out)
 *[cloþ]: cloth
 *[creepeth]: creeps
+*[cud]: resin
+*[cunning]: knowledge, ability, information, science, art
+*[dead]: (v) die, perish; (NE) dead
 *[dead-on]: accurate
 *[deer]: animal(s), beast(s)
+*[dit]: seal, close, shut, block, plug; shut up
+*[ditted]: sealed, closed, shut, blocked, plugged; shut up
 *[dost]: do
+*[ea]: river; law, statute, custom, rule
 *[eatest]: eat
 *[Ewe]: Eve
 *[eyeblink]: instant, moment
@@ -52,7 +61,8 @@ Keep it in alphabetical order so that there are no duplicates.
 *[folk]: people, a people
 *[forewarning]: (NE) premonition
 *[foryet]: forget
-*[fowl]: (NE) bird
+*[fowl]: (NE) bird(s)
+*[fowls]: (NE) birds
 *[full]: (NE) very; full
 *[gander]: (NE) a look or glance
 *[ghost]: spirit
@@ -60,13 +70,19 @@ Keep it in alphabetical order so that there are no duplicates.
 *[gielded]: yielded, gave up
 *[gilt]: (NE) golden
 *[gleen]: musical
+*[goeth]: goes
 *[grilled]: provoked, annoyed, irritated, offended
 *[haf]: have
+*[hallow]: sanctify, canonize, consecrate, make holy; dedicate, initiate
+*[hallowed]: sanctified, canonized, consecrated, made holy; dedicated, initiated
 *[hame]: covering
 *[hames]: coverings
 *[handmaid]: personal maid or female servant
+*[harƿeed]: armour
+*[harweed]: armour
 *[hast]: have
 *[headwaters]: (NE) the sources of a river
+*[heap]: collection, array, much or many of something; crowd, pile, mass
 *[heave]: lift, elevate
 *[heaves]: lifts, elevates
 *[heigt]: height
@@ -84,8 +100,6 @@ Keep it in alphabetical order so that there are no duplicates.
 *[hy]: they
 *[Her]: Their, Her
 *[Hy]: They
-*[harƿeed]: armour
-*[harweed]: armour
 *[hƿen]: when
 *[hƿic]: which
 *[hƿile]: while
@@ -102,6 +116,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[ligt]: light
 *[littel]: little
 *[loave]: price, value, offer for sale
+*[mayest]: may
 *[mid]: with
 *[Mid]: With
 *[moveth]: moves
@@ -110,6 +125,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[nige]: nigh
 *[nim]: take
 *[nimmed]: took; taken, seized
+*[nimmen]: taken, seized
 *[orf]: cattle, livestock
 *[other]: second; other
 *[outlandish]: foreign, bizarre and strange; unrealistic
@@ -156,6 +172,8 @@ Keep it in alphabetical order so that there are no duplicates.
 *[teld]: tent
 *[telds]: tents
 *[thee]: you
+*[thence]: from there
+*[thereof]: of the thing just mentioned; of that
 *[thine]: your, yours
 *[thorp]: village, hamlet
 *[thou]: you
@@ -183,6 +201,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[wain]: wagon, cart, car, vehicle; carriage
 *[wassombere]: fruitful, fertile, fruit-bearing
 *[wast]: were (indicative)
+*[watch]: observe, surveil, guard; watch
 *[wawed]: swayed, moved, stirred
 *[wayfare]: journey
 *[were]: man, husband; were (verb)
