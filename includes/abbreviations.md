@@ -189,8 +189,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[werely]: male, masculine
 *[wert]: were (subjunctive)
 *[whistly]: silently, quietly
-*[wield]: (N&V) rule, reign, control, command, govern; (N) command, control,
-domain
+*[wield]: (N&V) rule, reign, control, command, govern; (N) command, control, domain
 *[wife]: woman; wife (with possessive)
 *[wird]: fate
 *[wives]: women; wives (with possessive)
