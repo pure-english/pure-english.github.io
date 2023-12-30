@@ -24,6 +24,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[bear]: give birth to; endure
 *[bedspread]: blanket, duvet, quilt
 *[beed]: table
+*[begetting]: conception
 *[belap]: surround, envelop
 *[belapeth]: surrounds, envelops
 *[betƿeen]: between
@@ -32,6 +33,8 @@ Keep it in alphabetical order so that there are no duplicates.
 *[biding]: waiting, staying, remaining
 *[bloakern]: lamp, lantern; light place
 *[bo]: both
+*[bode]: call (out to)
+*[boded]: called (out to)
 *[bore]: gave birth to
 *[borough]: city
 *[brune]: brown
@@ -40,7 +43,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[cloþ]: cloth
 *[creepeth]: creeps
 *[cud]: resin
-*[cunning]: knowledge, ability, information, science, art
+*[cunning]: (n) knowledge; (adj) crafty, sly, guileful
 *[dead]: (v) die, perish; (NE) dead
 *[dead-on]: accurate
 *[deer]: animal(s), beast(s)
@@ -58,6 +61,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[fanded]: tried, attempted
 *[feathered]: winged, fleet
 *[feelfold]: increase in number, multiply
+*[fike]: fig
 *[findeth]: finds
 *[folk]: people, a people
 *[forewarning]: (NE) premonition
@@ -113,10 +117,13 @@ Keep it in alphabetical order so that there are no duplicates.
 *[ledg]: ledge
 *[leighton]: garden (especially a kitchen garden or herb garden)
 *[Leighton]: Garden (especially a kitchen garden or herb garden)
+*[lest]: in order to avoid
 *[lift]: air, the sky, the heavens
 *[ligt]: light
+*[list]: desire, craving; crave
 *[littel]: little
 *[loave]: price, value, offer for sale
+*[mansed]: cursed, damned, excommunicated
 *[mayest]: may
 *[mid]: with
 *[Mid]: With
@@ -126,12 +133,13 @@ Keep it in alphabetical order so that there are no duplicates.
 *[nige]: nigh
 *[nim]: take
 *[nimmed]: took; taken, seized
-*[nimmen]: taken, seized
 *[orf]: cattle, livestock
 *[other]: second; other
 *[outlandish]: foreign, bizarre and strange; unrealistic
 *[ovet]: fruit
 *[ovets]: fruits
+*[poad]: coat
+*[poads]: coats
 *[pote]: push, poke, thrust
 *[potes]: pushes, pokes, thrusts
 *[quole]: died, perished
@@ -155,12 +163,15 @@ Keep it in alphabetical order so that there are no duplicates.
 *[shanks]: legs
 *[shed]: divide(d), separate(d); differentiate(d), distinguish(ed)
 *[shivel]: a woman's headscarf; boa
+*[shouldst]: (ANE) should
 *[sibred]: relationship
 *[sibreds]: relationships
 *[slayeth]: slays
 *[smowing]: creeping, crawling
+*[soothly]: truly, really, verily, actually
 *[sorroƿful]: sorrowful
 *[spurned]: kicked; rejected with scorn; refused to use
+*[steven]: (v+n) voice
 *[stilly]: (NE) silent, calm
 *[stir]: move, move about; become active; incite to action, disturb
 *[stirred]: moved, moved about; became active; incited to action, disturbed
@@ -208,6 +219,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[were]: man, husband; were (verb)
 *[werely]: male, masculine
 *[wert]: were (subjunctive)
+*[whence]: from where
 *[whistly]: silently, quietly
 *[wield]: (N&V) rule, reign, control, command, govern; (N) command, control, domain
 *[wife]: woman; wife (with possessive)
@@ -241,6 +253,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[ƿuman]: woman
 *[yate]: gate
 *[yave]: gave
+*[yavest]: gave
 *[ye]: you (all)
 *[yeartide]: season (of a year)
 *[yeartides]: seasons (of a year)
