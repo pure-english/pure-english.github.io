@@ -31,6 +31,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[bide]: wait, stay, remain
 *[biding]: waiting, staying, remaining
 *[bloakern]: lamp, lantern; light place
+*[bo]: both
 *[bore]: gave birth to
 *[borough]: city
 *[brune]: brown
