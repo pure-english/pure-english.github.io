@@ -52,6 +52,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[dost]: do
 *[ea]: river; law, statute, custom, rule
 *[eatest]: eat
+*[edwend]: return, turn back; reverse
 *[Ewe]: Eve
 *[eyeblink]: instant, moment
 *[eyedoor]: window
@@ -147,6 +148,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[raþer]: rather
 *[rear]: raise, raise a child; breed animals
 *[rigt]: right
+*[rine]: touch, affect
 *[rith]: fever
 *[rodder]: the firmament, outer space, aether
 *[scank]: leg
