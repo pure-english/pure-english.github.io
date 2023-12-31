@@ -232,6 +232,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[tider]: have/beget offspring, multiply
 *[till]: till, prepare and cultivate land for crops
 *[tillest]: till, prepare and cultivate land for crops
+*[tiver]: offering, sacrifice; victim
 *[token]: sign, badge, marking, mark, symbol; token
 *[tokens]: signs, badges, markings, marks, symbols; tokens
 *[tool]: tool; instrument
