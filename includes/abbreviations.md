@@ -23,6 +23,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[asunder]: apart
 *[atithe]: grant, allow
 *[atithed]: granted, allowed
+*[awent]: passed away, died; proceeded, passed (by), elapsed, came to pass; moved, departed
 *[ayen]: again
 *[bade]: (NE) commanded
 *[barton]: farmyard
@@ -105,6 +106,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[hast]: have
 *[headwaters]: (NE) the sources of a river
 *[heap]: collection, array, much or many of something; crowd, pile, mass
+*[hearten]: comfort, give courage, encourage, console, reassure
 *[heave]: lift, elevate
 *[heaves]: lifts, elevates
 *[heigt]: height
@@ -148,6 +150,8 @@ Keep it in alphabetical order so that there are no duplicates.
 *[loave]: price, value, offer for sale
 *[lordship]: dominion, authority
 *[man]: human being, person (NOT an adult male human)
+*[mankind]: humanity, humankind
+*[Mankind]: Humanity, Humankind
 *[mansed]: cursed, damned, excommunicated
 *[mayest]: may
 *[men]: human beings, people (NOT an adult male humans)
@@ -203,6 +207,8 @@ Keep it in alphabetical order so that there are no duplicates.
 *[stilly]: (NE) silent, calm
 *[stir]: move, move about; become active; incite to action, disturb
 *[stirred]: moved, moved about; became active; incited to action, disturbed
+*[strind]: generation, lineage, clan; race
+*[strinds]: generations, lineages, clans; races
 *[sunder]: separate, split
 *[sundered]: separated, split
 *[sweetwatered]: fragrant, having a pleasant smell
@@ -252,6 +258,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[wed]: marry, pledge; married, pledged
 *[were]: man, husband; were (verb)
 *[werely]: male, masculine
+*[Werely]: Male, Masculine
 *[wert]: were (subjunctive)
 *[whence]: from where
 *[whistle]: flute, musical pipe; whistle
