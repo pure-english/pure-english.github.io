@@ -10,7 +10,8 @@
 This translation is based on the [KJV] version.
 
 This version is known as the Pure English Version (PEV). It is licensed under
-the [CC BY-SA 4.0] licence.
+the [CC BY-SA 4.0] licence. Any verses unchanged from the KJV remain under
+public domain.
 
 [CC BY-SA 4.0]: https://creativecommons.org/licenses/by-sa/4.0/
 
