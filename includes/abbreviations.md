@@ -7,16 +7,20 @@ Keep it in alphabetical order so that there are no duplicates.
 *[Abufe]: above
 *[addled]: confused, addled
 *[afore]: in front of, before; opposite
+*[ago]: proceed, pass (go by), elapse, come to pass; pass away, die; move, depart
 *[agoing]: moving, travelling, proceeding, passing
 *[aloud]: audibly, out loud
 *[alude]: aloud; audibly, out loud
 *[alƿays]: always
 *[anlet]: face, appearance; surface (metaphorical)
+*[anlikeness]: image, figure, resemblance; model
 *[anqueathed]: replied, responded
+*[ansen]: countenance
 *[anward]: present, current
 *[anƿard]: present, current
 *[art]: are
 *[asunder]: apart
+*[atithe]: grant, allow
 *[atithed]: granted, allowed
 *[ayen]: again
 *[bade]: (NE) commanded
@@ -29,6 +33,10 @@ Keep it in alphabetical order so that there are no duplicates.
 *[belapeth]: surrounds, envelops
 *[betƿeen]: between
 *[Bewoven]: Wrapped up, Enveloped, Clothed, Entwined
+*[beyat]: conceived, produced, created, caused, sired, generated, engendered
+*[beyet]: conceive, produce, create, cause, sire, generate, engender
+*[beyot]: conceived, produced, created, caused, sired, generated, engendered
+*[beyotten]: conceived, produced, created, caused, sired, generated, engendered; (adj) brought into being by one's begetter(s)
 *[bide]: wait, stay, remain
 *[biding]: waiting, staying, remaining
 *[bloakern]: lamp, lantern; light place
@@ -38,6 +46,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[bore]: gave birth to
 *[borough]: city
 *[brune]: brown
+*[chy]: call, cry (out)
 *[chyed]: called, cried (out)
 *[chyeth]: calls, cries (out)
 *[cloþ]: cloth
@@ -49,7 +58,9 @@ Keep it in alphabetical order so that there are no duplicates.
 *[deer]: animal(s), beast(s)
 *[dit]: seal, close, shut, block, plug; shut up
 *[ditted]: sealed, closed, shut, blocked, plugged; shut up
-*[dost]: do
+*[doest]: do
+*[dost]: do (aux.)
+*[drifter]: vagabond, transient, vagrant
 *[ea]: river; law, statute, custom, rule
 *[eatest]: eat
 *[edwend]: return, turn back; reverse
@@ -62,6 +73,8 @@ Keep it in alphabetical order so that there are no duplicates.
 *[fanded]: tried, attempted
 *[feathered]: winged, fleet
 *[feelfold]: increase in number, multiply
+*[fieldhouse]: tent
+*[fieldhouses]: tents
 *[fike]: fig
 *[findeth]: finds
 *[folk]: people, a people
@@ -69,6 +82,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[foryet]: forget
 *[fowl]: (NE) bird(s)
 *[fowls]: (NE) birds
+*[runaway]: (n+adj) fugitive, runaway; (adj) unchecked, rampant
 *[full]: (NE) very; full
 *[gander]: (NE) a look or glance
 *[ghost]: spirit
@@ -95,8 +109,11 @@ Keep it in alphabetical order so that there are no duplicates.
 *[hem]: them
 *[hemself]: themself (singular)
 *[hemselves]: themselves
+*[henceforth]: from this or that time on, from now on
 *[her]: their, her
 *[hers]: theirs, hers
+*[hew]: forge, form, conform, shape; chop at, chop down
+*[hewed]: forged, formed, conformed, shaped; chopped at, chopped down
 *[hewn-eyed]: blue-eyed, azure-eyed
 *[housel]: offering to a god; the Eucharist
 *[hoƿer]: viewer, observer
@@ -115,17 +132,23 @@ Keep it in alphabetical order so that there are no duplicates.
 *[inbowed]: arched, curved
 *[inboƿed]: arched, curved
 *[inhide]: thought, intent(ion)
+*[keeper]: guardian, custodian
+*[leaming]: flaming, blazing, flashing, glowing, shining, radiating, gleaming
 *[ledg]: ledge
 *[leighton]: garden (especially a kitchen garden or herb garden)
 *[Leighton]: Garden (especially a kitchen garden or herb garden)
 *[lest]: in order to avoid
+*[lieth]: lies
 *[lift]: air, the sky, the heavens
 *[ligt]: light
 *[list]: desire, craving; crave
 *[littel]: little
 *[loave]: price, value, offer for sale
+*[lordship]: dominion, authority
+*[man]: human being, person (NOT an adult male human)
 *[mansed]: cursed, damned, excommunicated
 *[mayest]: may
+*[men]: human beings, people (NOT an adult male humans)
 *[mid]: with
 *[Mid]: With
 *[moveth]: moves
@@ -146,6 +169,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[quole]: died, perished
 *[rackent]: chain
 *[raþer]: rather
+*[reap]: receive (as a consequence); gather a crop, harvest
 *[rear]: raise, raise a child; breed animals
 *[rigt]: right
 *[rine]: touch, affect
@@ -206,8 +230,12 @@ Keep it in alphabetical order so that there are no duplicates.
 *[þougt]: thought
 *[þreƿ]: threw
 *[tider]: have/beget offspring, multiply
+*[till]: till, prepare and cultivate land for crops
+*[tillest]: till, prepare and cultivate land for crops
 *[token]: sign, badge, marking, mark, symbol; token
 *[tokens]: signs, badges, markings, marks, symbols; tokens
+*[tool]: tool; instrument
+*[tools]: tools; instruments
 *[twoth]: second
 *[unmightly]: impossible
 *[ute]: out
@@ -218,10 +246,13 @@ Keep it in alphabetical order so that there are no duplicates.
 *[watch]: observe, surveil, guard; watch
 *[wawed]: swayed, moved, stirred
 *[wayfare]: journey
+*[wed]: marry, pledge; married, pledged
 *[were]: man, husband; were (verb)
 *[werely]: male, masculine
 *[wert]: were (subjunctive)
 *[whence]: from where
+*[whistle]: flute, musical pipe; whistle
+*[whistles]: flutes, musical pipes; whistles
 *[whistly]: silently, quietly
 *[wield]: (N&V) rule, reign, control, command, govern; (N) command, control, domain
 *[wife]: woman; wife (with possessive)
@@ -236,6 +267,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[witlessness]: foolishness
 *[wholf]: arch, vault, the sky
 *[whoonly]: small, little, slight
+*[whosoever]: whoever
 *[wont to]: used to, accustomed to
 *[Woored]: distracted, disturbed
 *[workest]: work
@@ -243,6 +275,10 @@ Keep it in alphabetical order so that there are no duplicates.
 *[worts]: herbs, plants
 *[wortwale]: plant (verb)
 *[wortwaled]: planted
+*[wrake]: punishment, vengeance, revenge, retribution, destruction, ruin, annihilation
+*[wraken]: give or obtain vengeance; avenge
+*[wrakened]: gave or obtained vengeance; avenged
+*[wroth]: angry, irate
 *[ƿaking]: waking
 *[ƿalls]: walls
 *[ƿas]: was
@@ -253,6 +289,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[ƿont to]: used to, accustomed to
 *[ƿould]: would
 *[ƿuman]: woman
+*[yat]: got, gotten
 *[yate]: gate
 *[yave]: gave
 *[yavest]: gave
@@ -273,6 +310,6 @@ Keep it in alphabetical order so that there are no duplicates.
 *[Yours]: All of yours
 
 <!-- Uncertain below -->
-*[fithered]: winged
+<!-- *[fithered]: winged -->
 <!-- *[going by]: according to | Use 'abiding by'-->
 <!-- *[shapeless]: formless -->
