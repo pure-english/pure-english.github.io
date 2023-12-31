@@ -90,6 +90,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[gielded]: yielded, gave up
 *[gilt]: (NE) golden
 *[gleen]: musical
+*[glew]: play music, make music, entertain with music; rejoice, make merry, party, entertain, sing
 *[goeth]: goes
 *[grilled]: provoked, annoyed, irritated, offended
 *[haf]: have
@@ -310,7 +311,3 @@ Keep it in alphabetical order so that there are no duplicates.
 *[Your]: All of your
 *[Yours]: All of yours
 
-<!-- Uncertain below -->
-<!-- *[fithered]: winged -->
-<!-- *[going by]: according to | Use 'abiding by'-->
-<!-- *[shapeless]: formless -->
