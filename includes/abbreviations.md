@@ -17,6 +17,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[anqueathed]: replied, responded
 *[ansen]: countenance
 *[anward]: present, current
+*[anwardness]: presence
 *[anƿard]: present, current
 *[art]: are
 *[asunder]: apart
