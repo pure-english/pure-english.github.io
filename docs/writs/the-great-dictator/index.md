@@ -27,7 +27,7 @@ To those who can hear me, I say - do not lose heart. The woe that is now upon
 us is but the fleetingness of greed - the bitterness of men who fear the way of
 mannish headway. The hate of men will end, and strongmen queal, and the might
 they took from the folk will come back to the folk. And so long as men ago,
-freedom will never ago…
+freedom will never dead…
 
 Ferdmen! don’t give yourselves to wildmen - men who loathe you - bethew you -
 who rain your lives - tell you what to do - what to think and what to feel! Who
@@ -42,7 +42,7 @@ In the 17th Heading of Hallow Luck it is written: “the Kingdom of God is withi
 man” - not one man nor a set of men, but in all men! In you! You, the folk have
 the might - the might to make sares. The might to make happiness! You, the
 folk, have the might to make this life free and lovely, to make this life a
-wonderful happening.
+wonderful sithe.
 
 Then - in the name of folkdom - let us note that might - let us all come
 together. Let us fight for a new world - a rightminded world that will give men
@@ -97,6 +97,7 @@ Ferdmen! in the name of folkdom, let us all stand together!
 *[Sarehood]: Machinery
 *[sarehood]: machinery
 *[sares]: machines
+*[sithe]: journey (through life), occasion
 *[softness]: (NE) softness; gentleness
 *[soundness]: security
 *[steven]: voice
