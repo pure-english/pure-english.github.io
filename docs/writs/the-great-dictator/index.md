@@ -52,11 +52,11 @@ thewdom! Fight for freedom!
 
 In the 17th Heading of Hallow Luck it is written: “the Kingdom of God is within
 man” - not one man nor a set of men, but in all men! In you! You, the folk have
-the might - the might to make sares. The might to make happiness! You, the
-folk, have the might to make this life free and lovely, to make this life a
-wonderful sithe.
+the strength - the strength to make sares. The strength to make happiness! You,
+the folk, have the strength to make this life free and lovely, to make this
+life a wonderful sithe.
 
-Then - in the name of folkdom - let us note that might - let us all come
+Then - in the name of folkdom - let us note that strength - let us all come
 together. Let us fight for a new world - a rightminded world that will give men
 an opening to work - that will give youth a tomorrow and old lifetime a
 soundness. By the oath of these things, wildmen have risen to leadership. But
