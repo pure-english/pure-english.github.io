@@ -2,8 +2,8 @@
 
 Or: *The Last Speech from The Great Strongman*
 
-One of my favourite monologues of all time. Written in a more liberal Anglish,
-getting rid of only the French influences, allowing Norse words.
+One of my most favourite monologues of all time. Written in a more liberal
+Anglish, getting rid of only the French influences, allowing Norse words.
 
 YouTube link: [https://www.youtube.com/watch?v=w8HdOHrc3OQ][yt]
 
@@ -29,7 +29,7 @@ wit, we need kindness and softness. Without these makings, life will be bloody
 and all will be lost…
 
 The flightcraft and the *radio* have brought us nearer together. The sundry
-being of these findles chys out for the goodness in men - chys out for alkin
+being of these findles calls out for the goodness in men - calls out for alkin
 brotherhood - for the togetherness of us all. Even now my steven is reaching
 thousands of thousands throughout the world - thousands of thousands of
 hopeless wepmen, women, and little children - tivers of a network that makes
@@ -76,7 +76,7 @@ Ferdmen! in the name of folkdom, let us all stand together!
 *[being]: nature
 *[beings]: natures
 *[bethew]: enslave
-*[chys]: calls, cries (out)
+<!-- *[chys]: calls, cries (out) -->
 *[coaser]: emperor
 *[cunning]: knowledge, science
 *[dead]: die
