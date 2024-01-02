@@ -79,8 +79,11 @@ Keep it in alphabetical order so that there are no duplicates.
 *[fieldhouses]: tents
 *[fike]: fig
 *[findeth]: finds
+*[flite]: quarrel, dispute, argue, contend; (n) quarrel, dispute, argument
 *[folk]: people, a people
 *[forewarning]: (NE) premonition
+*[forthink]: regret, change one's mind; rethink
+*[forthought]: regreted, changed one's mind; rethought
 *[foryet]: forget
 *[fowl]: (NE) bird(s)
 *[fowls]: (NE) birds
@@ -137,6 +140,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[inboƿed]: arched, curved
 *[inhide]: thought, intent(ion)
 *[keeper]: guardian, custodian
+*[leaning]: inclination, tendency, partiality; leaning
 *[leaming]: flaming, blazing, flashing, glowing, shining, radiating, gleaming
 *[ledg]: ledge
 *[leighton]: garden (especially a kitchen garden or herb garden)
@@ -145,18 +149,21 @@ Keep it in alphabetical order so that there are no duplicates.
 *[lieth]: lies
 *[lift]: air, the sky, the heavens
 *[ligt]: light
+*[lise]: fame, reputation, renown; report
 *[list]: desire, craving; crave
 *[littel]: little
 *[loave]: price, value, offer for sale
 *[lordship]: dominion, authority
-*[man]: human being, person (NOT an adult male human)
+*[man]: human being, person
 *[mankind]: humanity, humankind
 *[Mankind]: Humanity, Humankind
 *[mansed]: cursed, damned, excommunicated
 *[mayest]: may
-*[men]: human beings, people (NOT an adult male humans)
+*[men]: human beings, people
 *[mid]: with
 *[Mid]: With
+*[mourn]: mourn, grieve
+*[mourneth]: mourns, grieves
 *[moveth]: moves
 *[mustbeness]: inevitability
 *[nefer]: never
@@ -172,6 +179,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[poads]: coats
 *[pote]: push, poke, thrust
 *[potes]: pushes, pokes, thrusts
+*[quench]: destroy, extinguish; overcome, subdue; relieve, satisfy
 *[quole]: died, perished
 *[rackent]: chain
 *[raþer]: rather
@@ -221,6 +229,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[thence]: from there
 *[thereof]: of the thing just mentioned; of that
 *[thine]: your, yours
+*[thinking]: imagination, the result of thinking; thinking
 *[thorp]: village, hamlet
 *[thou]: you
 *[thy]: your
