@@ -1,5 +1,17 @@
 # The Final Speech from The Great Dictator
 
+Or: *The Last Speech from The Great Strongman*
+
+One of my favourite monologues of all time. Written in a more liberal Anglish,
+getting rid of only the French influences, allowing Norse words.
+
+YouTube link: [https://www.youtube.com/watch?v=w8HdOHrc3OQ][yt]
+
+
+[yt]: https://www.youtube.com/watch?v=w8HdOHrc3OQ
+
+## Speech
+
 I’m sorry, but I don’t wish to be a coaser. That’s not my business. I don’t
 wish to wield or overwin anyone. I should like to help everyone - if I can -
 Joudishman, Theedly man - black man - white. We all wish to help one another.

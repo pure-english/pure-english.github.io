@@ -6,23 +6,24 @@ nav:
   - Writs (Texts):
     - writs/index.md
     - Books and Stories:
-        - writs/books/index.md
+        # - writs/books/index.md
         - A Country Doctor:
             - writs/a-country-doctor/index.md
         - The Bible:
             - writs/bible/index.md
             - Genesis:
-                - writs/bible/genesis/index.md
+                # - writs/bible/genesis/index.md
                 - 1 - The Beginning: writs/bible/genesis/1.md
                 - 2 - Adam and Ewe: writs/bible/genesis/2.md
                 - 3 - The Fall: writs/bible/genesis/3.md
                 - 4 - Cain and Abel: writs/bible/genesis/4.md
                 - 5 - From Adam to Noah: writs/bible/genesis/5.md
                 - 6 - Wickedness in the World: writs/bible/genesis/6.md
-        - The Great Dictator speech:
-            - writs/the-great-dictator/index.md
         - The Metamorphosis:
             - writs/metamorphosis/index.md
+    - Speeches:
+        - The Great Dictator speech:
+            - writs/the-great-dictator/index.md
     # - Songs:
     #     writs/songs/index.md
   - Editor: https://pure-english.github.io/dictionary/editor/
