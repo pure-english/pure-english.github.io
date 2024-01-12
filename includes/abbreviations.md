@@ -25,12 +25,15 @@ Keep it in alphabetical order so that there are no duplicates.
 *[art]: are
 *[arveth]: tribulation, affliction, trouble
 *[asunder]: apart
+*[athel]: noble
+*[athels]: nobles
 *[atithe]: grant, allow
 *[atithed]: granted, allowed
 *[awent]: passed away, died; proceeded, passed (by), elapsed, came to pass; moved, departed
 *[ayen]: again
 *[ayenst]: against
-*[bade]: prayed, entreated, requested, invited; (NE) commanded, ordered, demanded; (NE) offered;
+*[bade]: prayed, entreated, requested, invited; (NE) commanded, ordered, demanded; (NE) offered
+*[ban]: proclamation, edict, decree, ordinance
 *[barrows]: mountains
 *[barton]: farmyard
 *[bear]: give birth to; endure
@@ -42,6 +45,8 @@ Keep it in alphabetical order so that there are no duplicates.
 *[belapeth]: surrounds, envelops
 *[Bene]: Prayer, Request to a god, Entreaty to a god
 *[bene]: prayer, request to a god, entreaty to a god
+*[beruse]: repent, feel remorse
+*[berused]: repented, felt remorse
 *[betƿeen]: between
 *[Bewoven]: Wrapped up, Enveloped, Clothed, Entwined
 *[beyat]: conceived, produced, created, caused, sired, generated, engendered
@@ -54,12 +59,14 @@ Keep it in alphabetical order so that there are no duplicates.
 *[bloakern]: lamp, lantern; light place
 *[bloot]: sacrifice
 *[bo]: both
-*[bode]: call (out to)
-*[boded]: called (out to)
+*[bode]: call (out to); declare, announce, proclaim, preach
+*[boded]: called (out to); declared, announced, proclaimed, preached
 *[bore]: gave birth to
 *[borough]: city
 *[breakers]: (NE) heavy sea waves that breaks into white foam on the shore
 *[brune]: brown
+*[char]: turn, change beliefs or allegiance, convert
+*[charred]: turned, changed beliefs or allegiance, converted
 *[chy]: call, cry (out)
 *[chyed]: called, cried (out)
 *[chyeth]: calls, cries (out)
@@ -141,6 +148,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[hew]: forge, form, conform, shape; chop at, chop down
 *[hewed]: forged, formed, conformed, shaped; chopped at, chopped down
 *[hewn-eyed]: blue-eyed, azure-eyed
+*[highseld]: throne; position of high rank
 *[housel]: offering to a god; the Eucharist
 *[hoƿer]: viewer, observer
 *[hower]: viewer, observer
@@ -161,6 +169,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[irsing]: raging
 *[ist]: tempest; hurricane, typhoon, cyclone
 *[keeper]: guardian, custodian
+*[kinshroud]: royal clothing, royal robes, king's raiment
 *[leaning]: inclination, tendency, partiality; leaning
 *[leaming]: flaming, blazing, flashing, glowing, shining, radiating, gleaming
 *[ledg]: ledge
@@ -176,6 +185,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[littel]: little
 *[loave]: price, value, offer for sale
 *[lordship]: dominion, authority
+*[loreboding]: preaching
 *[making]: cause
 *[man]: human being, person
 *[mankind]: humanity, humankind
@@ -206,6 +216,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[poads]: coats
 *[pote]: push, poke, thrust
 *[potes]: pushes, pokes, thrusts
+*[put forth]: publish, state, assert, exhibit
 *[queal]: die, perish
 *[quench]: destroy, extinguish; overcome, subdue; relieve, satisfy
 *[quole]: died, perished
@@ -243,6 +254,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[sibreds]: relationships
 *[sithe]: fellow, companion
 *[slayeth]: slays
+*[smatch]: taste
 *[smowing]: creeping, crawling
 *[soothly]: truly, really, verily, actually
 *[sorroƿful]: sorrowful
@@ -323,6 +335,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[wildware]: furs (as a product)
 *[wilt]: will
 *[wissly]: certainly, surely
+*[witerail]: sackcloth
 *[with child]: pregnant
 *[witlessness]: foolishness
 *[wholf]: arch, vault, the sky
