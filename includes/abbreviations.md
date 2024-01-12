@@ -11,6 +11,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[afore]: in front of, before; opposite
 *[ago]: proceed, pass (go by), elapse, come to pass; pass away, die; move, depart
 *[agoing]: moving, travelling, proceeding, passing
+*[Aleesedness]: Salvation
 *[aloud]: audibly, out loud
 *[alude]: aloud; audibly, out loud
 *[alƿays]: always
@@ -22,18 +23,21 @@ Keep it in alphabetical order so that there are no duplicates.
 *[anwardness]: presence
 *[anƿard]: present, current
 *[art]: are
+*[arveth]: tribulation, affliction, trouble
 *[asunder]: apart
 *[atithe]: grant, allow
 *[atithed]: granted, allowed
 *[awent]: passed away, died; proceeded, passed (by), elapsed, came to pass; moved, departed
 *[ayen]: again
 *[ayenst]: against
-*[bade]: (NE) commanded, ordered, demanded; (NE) offered
+*[bade]: prayed, entreated, requested, invited; (NE) commanded, ordered, demanded; (NE) offered;
+*[barrows]: mountains
 *[barton]: farmyard
 *[bear]: give birth to; endure
 *[bedspread]: blanket, duvet, quilt
 *[beed]: table
 *[begetting]: conception
+*[behighted]: vowed, promised
 *[belap]: surround, envelop
 *[belapeth]: surrounds, envelops
 *[Bene]: Prayer, Request to a god, Entreaty to a god
@@ -48,11 +52,13 @@ Keep it in alphabetical order so that there are no duplicates.
 *[bide]: wait, stay, remain
 *[biding]: waiting, staying, remaining
 *[bloakern]: lamp, lantern; light place
+*[bloot]: sacrifice
 *[bo]: both
 *[bode]: call (out to)
 *[boded]: called (out to)
 *[bore]: gave birth to
 *[borough]: city
+*[breakers]: (NE) heavy sea waves that breaks into white foam on the shore
 *[brune]: brown
 *[chy]: call, cry (out)
 *[chyed]: called, cried (out)
@@ -87,6 +93,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[fieldhouse]: tent
 *[fieldhouses]: tents
 *[fike]: fig
+*[filing]: corruption
 *[findeth]: finds
 *[flite]: quarrel, dispute, argue, contend; (n) quarrel, dispute, argument
 *[folk]: people, a people
@@ -112,11 +119,13 @@ Keep it in alphabetical order so that there are no duplicates.
 *[hame]: covering
 *[hames]: coverings
 *[handmaid]: personal maid or female servant
+*[harrow]: temple, shrine; idol
 *[harƿeed]: armour
 *[harweed]: armour
 *[hast]: have
 *[headwaters]: (NE) the sources of a river
 *[heap]: collection, array, much or many of something; crowd, pile, mass
+*[heardest]: heard
 *[hearten]: comfort, give courage, encourage, console, reassure
 *[heave]: lift, elevate
 *[heaves]: lifts, elevates
@@ -154,6 +163,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[leaning]: inclination, tendency, partiality; leaning
 *[leaming]: flaming, blazing, flashing, glowing, shining, radiating, gleaming
 *[ledg]: ledge
+*[leeth]: mercy, relief from pain, peace
 *[leighton]: garden (especially a kitchen garden or herb garden)
 *[Leighton]: Garden (especially a kitchen garden or herb garden)
 *[lest]: in order to avoid
@@ -186,6 +196,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[nimmed]: took; taken, seized
 *[orf]: cattle, livestock
 *[other]: second; other
+*[outed]: banished, expelled
 *[outlandish]: foreign, bizarre and strange; unrealistic
 *[ovet]: fruit
 *[ovets]: fruits
@@ -215,6 +226,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[scifel]: a woman's headscarf; boa
 *[scutting]: shutting
 *[seadeer]: sea creature(s)
+*[selfweenings]: vanities, egotisms, arrogances
 *[seller]: salesman, vendor
 *[shaft]: creature, creation; element, substance
 *[shalt]: shall
@@ -248,6 +260,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[tame]: (NE) subdue, domesticate, cultivate; tame
 *[teld]: tent
 *[telds]: tents
+*[thanksgiving]: (NE) expression of gratitude
 *[thee]: you
 *[thence]: from there
 *[thereof]: of the thing just mentioned; of that
@@ -278,10 +291,12 @@ Keep it in alphabetical order so that there are no duplicates.
 *[tool]: tool; instrument
 *[tools]: tools; instruments
 *[twoth]: second
+*[umbewent]: encompassed, surrounded
 *[unmightly]: impossible
 *[ute]: out
 *[utelandisc]: foreign, bizarre and strange; unrealistic
 *[wain]: wagon, cart, car, vehicle; carriage
+*[wan]: dim, faint; pale, sickly-looking; bland, uninteresting
 *[wassombere]: fruitful, fertile, fruit-bearing
 *[wast]: were (indicative)
 *[watch]: observe, surveil, guard; watch
@@ -346,6 +361,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[yesternight]: last night
 *[yet]: get; yet
 *[yetting]: getting
+*[yield]: pay, give up, surrender, concede
 *[Yiddy-up]: Giddy-up
 *[you]: you (all)
 *[your]: all of your
