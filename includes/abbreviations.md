@@ -11,6 +11,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[afore]: in front of, before; opposite
 *[ago]: proceed, pass (go by), elapse, come to pass; pass away, die; move, depart
 *[agoing]: moving, travelling, proceeding, passing
+*[aleese]: save, deliver, redeem
 *[Aleesedness]: Salvation
 *[aloud]: audibly, out loud
 *[alude]: aloud; audibly, out loud
@@ -29,6 +30,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[athels]: nobles
 *[atithe]: grant, allow
 *[atithed]: granted, allowed
+*[aver]: vehement
 *[awent]: passed away, died; proceeded, passed (by), elapsed, came to pass; moved, departed
 *[ayen]: again
 *[ayenst]: against
@@ -47,6 +49,8 @@ Keep it in alphabetical order so that there are no duplicates.
 *[bene]: prayer, request to a god, entreaty to a god
 *[beruse]: repent, feel remorse
 *[berused]: repented, felt remorse
+*[beruses]: repents, feels remorse
+*[berusest]: repent, feel remorse
 *[betƿeen]: between
 *[Bewoven]: Wrapped up, Enveloped, Clothed, Entwined
 *[beyat]: conceived, produced, created, caused, sired, generated, engendered
@@ -80,12 +84,14 @@ Keep it in alphabetical order so that there are no duplicates.
 *[deer]: animal(s), beast(s)
 *[dit]: seal, close, shut, block, plug; shut up
 *[ditted]: sealed, closed, shut, blocked, plugged; shut up
+*[Doest]: Do
 *[doest]: do
 *[dost]: do (aux.)
 *[drifter]: vagabond, transient, vagrant
 *[ea]: river; law, statute, custom, rule
 *[eatest]: eat
 *[edwend]: return, turn back; reverse
+*[eesty]: gracious
 *[Evensorrow]: Compassion; Empathy, Sympathy
 *[evensorrow]: compassion; empathy, sympathy
 *[Ewe]: Eve
@@ -136,6 +142,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[heap]: collection, array, much or many of something; crowd, pile, mass
 *[heardest]: heard
 *[hearten]: comfort, give courage, encourage, console, reassure
+*[heartsickness]: depression, despondency, grief, emotional pain or anguish
 *[heave]: lift, elevate
 *[heaves]: lifts, elevates
 *[Hebreish]: Hebrew, a Hebrew
@@ -187,6 +194,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[loave]: price, value, offer for sale
 *[lordship]: dominion, authority
 *[loreboding]: preaching
+*[madest]: made
 *[making]: cause
 *[man]: human being, person
 *[mankind]: humanity, humankind
@@ -197,6 +205,8 @@ Keep it in alphabetical order so that there are no duplicates.
 *[men]: human beings, people
 *[mid]: with
 *[Mid]: With
+*[mildheart]: merciful
+*[misquemed]: displeased
 *[mourn]: mourn, grieve
 *[mourneth]: mourns, grieves
 *[moveth]: moves
@@ -243,6 +253,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[seller]: salesman, vendor
 *[shaft]: creature, creation; element, substance
 *[shalt]: shall
+*[shamble]: vendor's stall, kiosk, booth; stool, bench
 *[shank]: leg
 *[shanks]: legs
 *[shed]: divide(d), separate(d); differentiate(d), distinguish(ed)
@@ -282,6 +293,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[thinking]: imagination, the result of thinking; thinking
 *[thorp]: village, hamlet
 *[thou]: you
+*[thove]: leafy; tufted, bushy, tufty
 *[thy]: your
 *[thyself]: yourself
 *[thwarst]: across
@@ -324,6 +336,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[wert]: were (subjunctive)
 *[What meanest thou]: What do you mean
 *[whence]: from where
+*[wherein]: in which
 *[whistle]: flute, musical pipe; whistle
 *[whistles]: flutes, musical pipes; whistles
 *[whistly]: silently, quietly
@@ -345,6 +358,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[wont to]: used to, accustomed to
 *[Woored]: distracted, disturbed
 *[work]: (NE) occupation, job
+*[worked]: laboured; operated, functioned; (NE) worked
 *[workest]: work
 *[wort]: herb, plant
 *[worts]: herbs, plants
@@ -354,6 +368,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[wraken]: give or obtain vengeance; avenge
 *[wrakened]: gave or obtained vengeance; avenged
 *[wroth]: angry, irate
+*[wrothen]: anger, make angry
 *[ƿaking]: waking
 *[ƿalls]: walls
 *[ƿas]: was

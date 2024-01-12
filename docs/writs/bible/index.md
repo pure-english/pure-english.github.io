@@ -12,7 +12,7 @@
 * Numbers
 * Deuteronomy
 
-**Nevi'im (Prophets)**
+**Nevi'im** (Prophets)
 
 * Joshua
 * Judges
@@ -24,7 +24,7 @@
 * Nehemiah/Ezra 2[^ktv]
 * Esther[^ktv]
 
-**Ketuvim (Writings)**
+**Ketuvim** (Writings)
 
 * Job
 * Psalms
@@ -32,7 +32,7 @@
 * Ecclesiastes
 * Song of Solomon/Song of Songs
 
-**Nevi'im (Prophets; Part 2)**
+**Nevi'im** (Prophets; Part 2)
 
 * Isaiah
 * Jeremiah
@@ -40,7 +40,7 @@
 * Ezekiel
 * Daniel[^ktv]
 
-**Nevi'im: Trei Asar (Twelve Minor Prophets)**
+**Nevi'im: Trei Asar** (Twelve Minor Prophets)
 
 * Hosea
 * Joel
