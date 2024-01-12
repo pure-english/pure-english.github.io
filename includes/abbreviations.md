@@ -206,6 +206,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[mid]: with
 *[Mid]: With
 *[mildheart]: merciful
+*[mine]: my; mine
 *[misquemed]: displeased
 *[mourn]: mourn, grieve
 *[mourneth]: mourns, grieves
