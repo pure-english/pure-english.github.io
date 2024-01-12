@@ -6,7 +6,7 @@
 
 **Torah** (Instruction)
 
-* [Genesis](./genesis/) (Beginning/Making)
+* [Genesis](./genesis/) (in-progress)
 * Exodus
 * Leviticus
 * Numbers
@@ -46,7 +46,7 @@
 * Joel
 * Amos
 * Obadiah
-* [Jonah](./jonah/)
+* [Jonah](./jonah/) (in-progress)
 * Micah
 * Nahum
 * Habakkuk

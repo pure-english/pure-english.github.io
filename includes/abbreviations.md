@@ -113,6 +113,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[glew]: play music, make music, entertain with music; rejoice, make merry, party, entertain, sing
 *[goeth]: goes
 *[grilled]: provoked, annoyed, irritated, offended
+*[ground]: (NE) ground; reason
 *[haf]: have
 *[hallow]: sanctify, canonize, consecrate, make holy; dedicate, initiate
 *[hallowed]: sanctified, canonized, consecrated, made holy; dedicated, initiated
