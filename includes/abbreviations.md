@@ -95,6 +95,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[fared]: travelled, journeyed, voyaged
 *[farth]: current, tide, shore
 *[fanded]: tried, attempted
+*[fasten]: fasting (abstinence from food and drink), an instance thereof
 *[feathered]: winged, fleet
 *[feelfold]: increase in number, multiply
 *[fieldhouse]: tent
