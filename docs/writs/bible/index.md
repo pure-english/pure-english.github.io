@@ -1,10 +1,103 @@
-# The Bible
+# The Bible (PEV)
 
 ## Books
 
-**Old Testament**
+### Old Testament
+
+**Torah** (Instruction)
 
 * [Genesis](./genesis/) (Beginning/Making)
+* Exodus
+* Leviticus
+* Numbers
+* Deuteronomy
+
+**Nevi'im (Prophets)**
+
+* Joshua
+* Judges
+* Ruth
+* 1 and 2 Samuel
+* 1 and 2 Kings
+* 1 and 2 Chronicles[^ktv]
+* Ezra[^ktv]
+* Nehemiah/Ezra 2[^ktv]
+* Esther[^ktv]
+
+**Ketuvim (Writings)**
+
+* Job
+* Psalms
+* Proverbs
+* Ecclesiastes
+* Song of Solomon/Song of Songs
+
+**Nevi'im (Prophets; Part 2)**
+
+* Isaiah
+* Jeremiah
+* Lamentations[^ktv]
+* Ezekiel
+* Daniel[^ktv]
+
+**Nevi'im: Trei Asar (Twelve Minor Prophets)**
+
+* Hosea
+* Joel
+* Amos
+* Obadiah
+* [Jonah](./jonah/)
+* Micah
+* Nahum
+* Habakkuk
+* Zephaniah
+* Haggai
+* Zechariah
+* Malachi
+
+### New Testament
+
+**Canonical gospels**
+
+* Matthew
+* Mark
+* Luke
+* John
+
+**Acts of apostles**
+
+* Acts
+
+**Pauline epistles**
+
+* Romans
+* 1 Corinthians
+* 2 Corinthians
+* Galatians
+* Ephesians
+* Philippians
+* Colossians
+* 1 Thessalonians
+* 2 Thessalonians
+* 1 Timothy
+* 2 Timothy
+* Titus
+* Philemon
+
+**Catholic epistles**
+
+* Hebrews
+* James
+* 1 Peter
+* 2 Peter
+* 1 John
+* 2 John
+* 3 John
+* Jude
+
+**Apocalypse**
+
+* Revelation
 
 ## Translation
 This translation is based on the [KJV] version.
@@ -111,6 +204,8 @@ Choose words based on the following order:
 ### Regular Borrowings
 
 * *create* uses *make*
+* *prayer* uses *bene*
+* *compassion* uses *evensorrow*
 
 ### Unexpected Borrowings
 
@@ -152,6 +247,9 @@ Choose words based on the following order:
 #### Dutch
 
 * *split* is from Dutch, use *sunder*
+
+<!-- Footnotes -->
+[^ktv]: Part of the Ketuvim in the Hebrew Bible.
 
 <!-- URLs -->
 [KJV]: https://www.biblegateway.com/versions/King-James-Version-KJV-Bible/#booklist

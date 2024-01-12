@@ -4,6 +4,8 @@ Only add to this file abbreviations that only have one meaning.
 Keep it in alphabetical order so that there are no duplicates.
 -->
 
+*[abought]: paid for (something)
+*[abuy]: pay for (something)
 *[Abufe]: above
 *[addled]: confused, addled
 *[afore]: in front of, before; opposite
@@ -25,7 +27,8 @@ Keep it in alphabetical order so that there are no duplicates.
 *[atithed]: granted, allowed
 *[awent]: passed away, died; proceeded, passed (by), elapsed, came to pass; moved, departed
 *[ayen]: again
-*[bade]: (NE) commanded
+*[ayenst]: against
+*[bade]: (NE) commanded, ordered, demanded; (NE) offered
 *[barton]: farmyard
 *[bear]: give birth to; endure
 *[bedspread]: blanket, duvet, quilt
@@ -33,12 +36,15 @@ Keep it in alphabetical order so that there are no duplicates.
 *[begetting]: conception
 *[belap]: surround, envelop
 *[belapeth]: surrounds, envelops
+*[Bene]: Prayer, Request to a god, Entreaty to a god
+*[bene]: prayer, request to a god, entreaty to a god
 *[betƿeen]: between
 *[Bewoven]: Wrapped up, Enveloped, Clothed, Entwined
 *[beyat]: conceived, produced, created, caused, sired, generated, engendered
 *[beyet]: conceive, produce, create, cause, sire, generate, engender
 *[beyot]: conceived, produced, created, caused, sired, generated, engendered
 *[beyotten]: conceived, produced, created, caused, sired, generated, engendered; (adj) brought into being by one's begetter(s)
+*[bid]: pray, entreat, request, invite
 *[bide]: wait, stay, remain
 *[biding]: waiting, staying, remaining
 *[bloakern]: lamp, lantern; light place
@@ -52,6 +58,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[chyed]: called, cried (out)
 *[chyeth]: calls, cries (out)
 *[cloþ]: cloth
+*[comest]: come
 *[creepeth]: creeps
 *[cud]: resin
 *[cunning]: (n) knowledge; (adj) crafty, sly, guileful
@@ -66,10 +73,12 @@ Keep it in alphabetical order so that there are no duplicates.
 *[ea]: river; law, statute, custom, rule
 *[eatest]: eat
 *[edwend]: return, turn back; reverse
+*[Evensorrow]: Compassion; Empathy, Sympathy
+*[evensorrow]: compassion; empathy, sympathy
 *[Ewe]: Eve
 *[eyeblink]: instant, moment
 *[eyedoor]: window
-*[fare]: (V) travel, journey, voyage; (N) journey
+*[fare]: (V) travel, journey, voyage; (N) journey; (NE) fare
 *[fared]: travelled, journeyed, voyaged
 *[farth]: current, tide, shore
 *[fanded]: tried, attempted
@@ -87,7 +96,6 @@ Keep it in alphabetical order so that there are no duplicates.
 *[foryet]: forget
 *[fowl]: (NE) bird(s)
 *[fowls]: (NE) birds
-*[runaway]: (n+adj) fugitive, runaway; (adj) unchecked, rampant
 *[full]: (NE) very; full
 *[gander]: (NE) a look or glance
 *[ghost]: spirit
@@ -112,6 +120,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[hearten]: comfort, give courage, encourage, console, reassure
 *[heave]: lift, elevate
 *[heaves]: lifts, elevates
+*[Hebreish]: Hebrew, a Hebrew
 *[heigt]: height
 *[hem]: them
 *[hemself]: themself (singular)
@@ -139,6 +148,8 @@ Keep it in alphabetical order so that there are no duplicates.
 *[inbowed]: arched, curved
 *[inboƿed]: arched, curved
 *[inhide]: thought, intent(ion)
+*[irsing]: raging
+*[ist]: tempest; hurricane, typhoon, cyclone
 *[keeper]: guardian, custodian
 *[leaning]: inclination, tendency, partiality; leaning
 *[leaming]: flaming, blazing, flashing, glowing, shining, radiating, gleaming
@@ -154,11 +165,13 @@ Keep it in alphabetical order so that there are no duplicates.
 *[littel]: little
 *[loave]: price, value, offer for sale
 *[lordship]: dominion, authority
+*[making]: cause
 *[man]: human being, person
 *[mankind]: humanity, humankind
 *[Mankind]: Humanity, Humankind
 *[mansed]: cursed, damned, excommunicated
 *[mayest]: may
+*[meanest]: mean
 *[men]: human beings, people
 *[mid]: with
 *[Mid]: With
@@ -168,6 +181,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[mustbeness]: inevitability
 *[nefer]: never
 *[nige]: nigh
+*[Nim]: Take
 *[nim]: take
 *[nimmed]: took; taken, seized
 *[orf]: cattle, livestock
@@ -175,20 +189,25 @@ Keep it in alphabetical order so that there are no duplicates.
 *[outlandish]: foreign, bizarre and strange; unrealistic
 *[ovet]: fruit
 *[ovets]: fruits
+*[pleasedst]: pleased
 *[poad]: coat
 *[poads]: coats
 *[pote]: push, poke, thrust
 *[potes]: pushes, pokes, thrusts
+*[queal]: die, perish
 *[quench]: destroy, extinguish; overcome, subdue; relieve, satisfy
 *[quole]: died, perished
 *[rackent]: chain
 *[raþer]: rather
 *[reap]: receive (as a consequence); gather a crop, harvest
 *[rear]: raise, raise a child; breed animals
+*[reigh]: tempestuous, fierce
 *[rigt]: right
 *[rine]: touch, affect
 *[rith]: fever
 *[rodder]: the firmament, outer space, aether
+*[runaway]: (n+adj) fugitive, runaway; (adj) unchecked, rampant
+*[sackless]: innocent, blameless, guiltless
 *[scank]: leg
 *[scanks]: legs
 *[sce]: she
@@ -202,10 +221,14 @@ Keep it in alphabetical order so that there are no duplicates.
 *[shank]: leg
 *[shanks]: legs
 *[shed]: divide(d), separate(d); differentiate(d), distinguish(ed)
+*[shiplord]: captain of a ship
+*[shipper]: sailor, mariner
+*[shippers]: sailors, mariners
 *[shivel]: a woman's headscarf; boa
 *[shouldst]: (ANE) should
 *[sibred]: relationship
 *[sibreds]: relationships
+*[sithe]: fellow, companion
 *[slayeth]: slays
 *[smowing]: creeping, crawling
 *[soothly]: truly, really, verily, actually
@@ -266,9 +289,11 @@ Keep it in alphabetical order so that there are no duplicates.
 *[wayfare]: journey
 *[wed]: marry, pledge; married, pledged
 *[were]: man, husband; were (verb)
+*[weres]: men, husbands
 *[werely]: male, masculine
 *[Werely]: Male, Masculine
 *[wert]: were (subjunctive)
+*[What meanest thou]: What do you mean
 *[whence]: from where
 *[whistle]: flute, musical pipe; whistle
 *[whistles]: flutes, musical pipes; whistles
@@ -289,6 +314,7 @@ Keep it in alphabetical order so that there are no duplicates.
 *[whosoever]: whoever
 *[wont to]: used to, accustomed to
 *[Woored]: distracted, disturbed
+*[work]: (NE) occupation, job
 *[workest]: work
 *[wort]: herb, plant
 *[worts]: herbs, plants
