@@ -1,12 +1,30 @@
 # The Bible (PEV)
 
+## Information
+
+### Links
+
+* [Google Docs Mirror][gdm], a mirror of the PEV on Google Docs. It doesn't
+  have hover-text/abbreviations, but does have better formatting.
+* [Bible Workshop Spreadsheet][bws], a spreadsheet that lists the translations
+  of the bible into Anglish.
+
+### Translation
+This translation is based on the [KJV] version.
+
+This version is known as the Pure English Version (PEV). It is licensed under
+the [CC BY-SA 4.0] licence. Any verses unchanged from the KJV remain under
+public domain.
+
+[CC BY-SA 4.0]: https://creativecommons.org/licenses/by-sa/4.0/
+
 ## Books
 
 ### Old Testament
 
 **Torah** (Instruction)
 
-* [Genesis](./genesis/) (in-progress)
+* [Genesis](./genesis/1.md) (in-progress)
 * Exodus
 * Leviticus
 * Numbers
@@ -46,7 +64,7 @@
 * Joel
 * Amos
 * Obadiah
-* [Jonah](./jonah/)
+* [Jonah](./jonah/1.md)
 * Micah
 * Nahum
 * Habakkuk
@@ -98,15 +116,6 @@
 **Apocalypse**
 
 * Revelation
-
-## Translation
-This translation is based on the [KJV] version.
-
-This version is known as the Pure English Version (PEV). It is licensed under
-the [CC BY-SA 4.0] licence. Any verses unchanged from the KJV remain under
-public domain.
-
-[CC BY-SA 4.0]: https://creativecommons.org/licenses/by-sa/4.0/
 
 ## Style Guide
 
@@ -254,5 +263,7 @@ Choose words based on the following order:
 <!-- URLs -->
 [KJV]: https://www.biblegateway.com/versions/King-James-Version-KJV-Bible/#booklist
 [n-vb]: https://anglisc.miraheze.org/wiki/Prefixes_and_Suffixes#s_(third-person_singular)
+[gdm]: https://docs.google.com/document/d/1E-N5bloFTu9rpPpIv3MDWnzlbBs_TuKopwIfdcxk4CY/edit
+[bws]: https://docs.google.com/spreadsheets/d/1gMVh5mamOLY9M37EFh2gRGVov0EXqBbvMBIRf0wk17k/edit#gid=0
 
 <!-- BUFFER -->
