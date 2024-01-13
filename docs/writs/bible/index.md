@@ -46,7 +46,7 @@
 * Joel
 * Amos
 * Obadiah
-* [Jonah](./jonah/) (in-progress)
+* [Jonah](./jonah/)
 * Micah
 * Nahum
 * Habakkuk
